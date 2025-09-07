@@ -16,7 +16,7 @@ class QuizUI:
         self.carpetaImg = "imagenes\\"
         
         self.lbl_img = tk.Label(self.root, bg="black")
-        self.lbl_img.pack(pady=10)
+        self.lbl_img.pack(pady=(30,10))
 
         self.lbl = tk.Label(
             self.root, text="", font=("Arial", 22, "bold"),
