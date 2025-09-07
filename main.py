@@ -30,6 +30,7 @@ else:
 
 ui = QuizUI()
 indice = 0
+seguida = 0
 tiempo_anadido = 0
 seleccionadas = []
 opciones_barajadas = []
@@ -78,20 +79,27 @@ def mostrar_pregunta_actual():
     ui.mostrar_pregunta(seleccionadas[indice], opciones_barajadas, indice, num_preguntas)
 
 def verificar(eleccion):
-    global indice, tiempo_anadido, opciones_barajadas
+    global indice, tiempo_anadido, opciones_barajadas, seguida
 
     p = seleccionadas[indice]
     idx_original = opciones_barajadas[eleccion][0]
     correcto = idx_original == p["respuesta"]
 
     if correcto:
+        seguida += 1
         tiempo_anadido += p.get("dificultad",1) * 30
-        ui.mostrar_feedback(f"\n\n\n✅ {random.choice(correcto_msgs)}\n\n{p.get('feedback','')}")
-        delay = 1500
+        ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}")
+        delay = 1000
     else:
+        seguida = 0
         ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n{p.get('feedback','')}")
-        delay = 10000
-
+        delay = 15000
+        
+    if seguida >= 5:
+        ui.mostrar_mensaje("Has contestado bien 5 preguntas de seguido, por eso tienes 2 minutos extra")
+        seguida = 0
+        tiempo_anadido += 120
+        
     key = p["pregunta"]
     if key not in stats:
         stats[key] = {"intentos":0, "aciertos":0}
@@ -110,10 +118,14 @@ def siguiente_pregunta():
         opciones_barajadas = preparar_opciones(seleccionadas[indice])
         mostrar_pregunta_actual()
     else:
-        ui.mostrar_resultado(tiempo_anadido)
+        ui.mostrar_mensaje(f"Tiempo añadido: {tiempo_anadido} segundos")
         ui.root.destroy()
         subprocess.Popen([sys.executable, "contador.py", str(tiempo_anadido)])
 
 ui.registrar_callback(verificar)
 mostrar_pantalla_inicial()
 ui.iniciar()
+
+
+
+

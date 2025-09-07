@@ -13,7 +13,7 @@ class QuizUI:
         self.root.lift()
         self.root.focus_force()
         
-        self.carpetaImg = "imagenes\\"
+        self.carpetaImg = "imagenes/"
         
         self.lbl_img = tk.Label(self.root, bg="black")
         self.lbl_img.pack(pady=(30,10))
@@ -32,13 +32,12 @@ class QuizUI:
             btn = tk.Button(
                 self.frame,
                 text="",
-                font=("Arial", 24),
-                wraplength=200,
+                font=("Arial", 30),
+                wraplength=400,
                 justify="center",
                 compound="top",
                 bg="black",
                 fg="#b3def3",
-                activebackground="black",
                 borderwidth=0,
                 highlightthickness=0
             )
@@ -99,8 +98,8 @@ class QuizUI:
     def registrar_callback(self, func):
         self.callback = func
 
-    def mostrar_resultado(self, tiempo_anadido):
-        messagebox.showinfo("Resultado", f"Tiempo añadido total: {tiempo_anadido} segundos")
+    def mostrar_mensaje(self, mensaje):
+        messagebox.showinfo("Resultado", mensaje)
 
     def iniciar(self):
         self.root.mainloop()
