@@ -88,11 +88,11 @@ def verificar(eleccion):
     if correcto:
         seguida += 1
         tiempo_anadido += p.get("dificultad",1) * 30
-        ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}")
+        ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}",seleccionadas[indice])
         delay = 1000
     else:
         seguida = 0
-        ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n{p.get('feedback','')}")
+        ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n{p.get('feedback','')}",seleccionadas[indice],True)
         delay = 15000
         
     if seguida >= 5:

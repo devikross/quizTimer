@@ -1,6 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox
 from PIL import Image, ImageTk
+import os
+import pygame
 
 class QuizUI:
     def __init__(self):
@@ -14,6 +16,7 @@ class QuizUI:
         self.root.focus_force()
         
         self.carpetaImg = "imagenes/"
+        self.carpetaAudio = "audios/"
         
         self.lbl_img = tk.Label(self.root, bg="black")
         self.lbl_img.pack(pady=(30,10))
@@ -32,7 +35,7 @@ class QuizUI:
             btn = tk.Button(
                 self.frame,
                 text="",
-                font=("Arial", 30),
+                font=("Arial", 26),
                 wraplength=400,
                 justify="center",
                 compound="top",
@@ -66,7 +69,7 @@ class QuizUI:
         else:
             self.lbl_img.config(image="")
             self.lbl_img.image = None
-
+            
         for i, (idx_original, opt) in enumerate(opciones_barajadas):
             ruta_img = None
             if pregunta.get("img_opciones"):
@@ -89,11 +92,26 @@ class QuizUI:
             if self.callback:
                 self.botones[i].config(command=lambda i=i: self.callback(i))
             self.botones[i].grid()
+        
+        if pregunta.get("audio"):
+            audio_path = self.carpetaAudio + pregunta.get("audio")
+            if os.path.exists(audio_path):
+                pygame.mixer.init()
+                pygame.mixer.music.load(audio_path)
+                pygame.mixer.music.play()
 
-    def mostrar_feedback(self, texto):
+    def mostrar_feedback(self, texto, pregunta, audio = False):
         self.lbl.config(text=texto)
         for btn in self.botones:
             btn.grid_remove()
+        if pregunta.get("audio") and audio:
+            audio_path = self.carpetaAudio + pregunta.get("audio")
+            nombre, ext = os.path.splitext(audio_path)
+            feed_path = nombre + "_feed" + ext            
+            if os.path.exists(feed_path):
+                pygame.mixer.init()
+                pygame.mixer.music.load(feed_path)
+                pygame.mixer.music.play()
 
     def registrar_callback(self, func):
         self.callback = func
