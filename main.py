@@ -8,15 +8,14 @@ correcto_msgs = [
     "¡De locos!",
     "¡Durísimo!",
     "¡Crack total!",
-    "¡La rompiste!",
 ]
 
 incorrecto_msgs = [
-    "Ups... la cagaste",
+    "Ups...",
     "Nooooo la politziaaaa",
     "Se cayó el server",
-    "¡Error 404 en tu cerebro!",
-    "Ñeee, sigue intentando",
+    "¡Error 404!",
+    "Sigue intentando",
 ]
 
 with open("preguntas.json", "r", encoding="utf-8") as f:
@@ -124,7 +123,9 @@ def verificar(eleccion):
                     if a[parteA][0] == b[parteB][0]:
                         opciones_correctas += 1
                     else:
-                        feedback_relacion += f"'{a[parteA][1]}' no va con {b[parteB][1]}\n\n"
+                        indice = next(num for num, comparador in a if comparador == a[parteA][1])
+                        valor = next(comparador for num, comparador in b if num == indice)  
+                        feedback_relacion += f"'{a[parteA][1]}' -----> {valor}\n\n"
                 if opciones_correctas == 5:
                     seguida += 1
                     correcto = True
@@ -133,12 +134,12 @@ def verificar(eleccion):
                     delay = 1000
                 elif opciones_correctas >= 3:
                     tiempo_anadido += pregunta.get("dificultad",1) * opciones_correctas * 25
-                    ui.mostrar_feedback(f"\n\nPresta atención a algunas relaciones que tuviste mal:\n\n {feedback_relacion}",pregunta)
+                    ui.mostrar_feedback(f"\n\nLa relación correcta es:\n\n {feedback_relacion}",pregunta)
                     delay = 10000
                 else:
                     seguida = 0
                     tiempo_anadido += pregunta.get("dificultad",1) * opciones_correctas * 10
-                    ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n\nTe daré algo de tiempo para que veas tus errores:\n\n{feedback_relacion}",pregunta)
+                    ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n\nTe daré algo de tiempo para que veas la relación correcta:\n\n{feedback_relacion}",pregunta)
                     delay = 20000
             else:
                 return
