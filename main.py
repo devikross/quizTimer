@@ -19,7 +19,7 @@ incorrecto_msgs = [
     "Ñeee, sigue intentando",
 ]
 
-with open("preguntas.json", "r", encoding="utf-8") as f:
+with open("preguntaUnica.json", "r", encoding="utf-8") as f:
     preguntas = json.load(f)
 
 if os.path.exists(STATS_FILE):
@@ -34,10 +34,15 @@ seguida = 0
 tiempo_anadido = 0
 seleccionadas = []
 opciones_barajadas = []
+relacionadas = []
 
 def preparar_opciones(pregunta):
     opciones = list(enumerate(pregunta["opciones"]))
     random.shuffle(opciones)
+    if pregunta.get("tipo") == "relation":
+        relaciones = list(enumerate(pregunta["opciones"].values()))
+        random.shuffle(relaciones)
+        return opciones, relaciones
     return opciones
 
 def seleccionar_numero(n):
@@ -55,22 +60,27 @@ def mostrar_pantalla_inicial():
     for i in range(4, len(ui.botones)):
         ui.botones[i].grid_remove()
 
+def muestrear(preguntas, pesos, k):
+    items, w = preguntas[:], pesos[:]
+    muestra = []
+    for _ in range(min(k, len(items))):
+        elegido = random.choices(items, weights=w, k=1)[0]
+        i = items.index(elegido)
+        muestra.append(items.pop(i))
+        w.pop(i)
+    return muestra
+
 def iniciar_quiz():
     global seleccionadas, indice, opciones_barajadas
     pesos = []
     for p in preguntas:
         key = p["pregunta"]
         info = stats.get(key, {"intentos":0,"aciertos":0})
-        intentos, aciertos = info["intentos"], info["aciertos"]
-        if intentos == 0:
-            peso = 10
-        else:
-            peso = 1 + (intentos - aciertos)
-            if peso < 1:
-                peso = 1
+        intentos, aciertos = int(info["intentos"]), int(info["aciertos"])
+        peso = 10 if intentos == 0 else max(1, 1 + (intentos - aciertos))
         pesos.append(peso)
     
-    seleccionadas[:] = random.choices(preguntas, weights=pesos, k=num_preguntas)
+    seleccionadas[:] = muestrear(preguntas, pesos, num_preguntas)
     indice = 0
     opciones_barajadas[:] = preparar_opciones(seleccionadas[indice])
     mostrar_pregunta_actual()
@@ -79,28 +89,83 @@ def mostrar_pregunta_actual():
     ui.mostrar_pregunta(seleccionadas[indice], opciones_barajadas, indice, num_preguntas)
 
 def verificar(eleccion):
-    global indice, tiempo_anadido, opciones_barajadas, seguida
-
-    p = seleccionadas[indice]
-    idx_original = opciones_barajadas[eleccion][0]
-    correcto = idx_original == p["respuesta"]
-
-    if correcto:
-        seguida += 1
-        tiempo_anadido += p.get("dificultad",1) * 30
-        ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}",seleccionadas[indice])
-        delay = 1000
+    global indice, tiempo_anadido, opciones_barajadas, seguida, relacionadas
+    
+    delay = 0
+    
+    pregunta = seleccionadas[indice]
+    correcto = False
+    
+    if pregunta.get("tipo") == "relation":
+        if relacionadas:
+            if eleccion in relacionadas:
+                eliminar = ui.colorear(eleccion)
+                relacionadas.remove(eleccion)
+                if eliminar != -1:
+                    relacionadas.remove(eliminar)
+            elif relacionadas[-1:][0]%2 == 0 and eleccion%2 != 0:
+                relacionadas.append(eleccion)
+                ui.colorear(eleccion,len(relacionadas)-1)
+            elif relacionadas[-1:][0]%2 == 0 and eleccion%2 == 0:
+                ui.colorear(relacionadas.pop())
+                relacionadas.append(eleccion)
+                ui.colorear(eleccion,len(relacionadas)-1)
+            elif relacionadas[-1:][0]%2 != 0 and eleccion%2 == 0:
+                relacionadas.append(eleccion)
+                ui.colorear(eleccion,len(relacionadas)-1)
+            if len(relacionadas) == 10:
+                ui.reestablecer_colores()
+                opciones_correctas = 0
+                feedback_relacion = ""
+                while(relacionadas):
+                    parteB = int((relacionadas.pop()-1)/2)
+                    parteA = int(relacionadas.pop()/2)
+                    a,b = opciones_barajadas
+                    if a[parteA][0] == b[parteB][0]:
+                        opciones_correctas += 1
+                    else:
+                        feedback_relacion += f"'{a[parteA][1]}' no va con {b[parteB][1]}\n\n"
+                if opciones_correctas == 5:
+                    seguida += 1
+                    correcto = True
+                    tiempo_anadido += pregunta.get("dificultad",1) * 150
+                    ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}",seleccionadas[indice])
+                    delay = 1000
+                elif opciones_correctas >= 3:
+                    tiempo_anadido += pregunta.get("dificultad",1) * opciones_correctas * 25
+                    ui.mostrar_feedback(f"\n\nPresta atención a algunas relaciones que tuviste mal:\n\n {feedback_relacion}",pregunta)
+                    delay = 10000
+                else:
+                    seguida = 0
+                    tiempo_anadido += pregunta.get("dificultad",1) * opciones_correctas * 10
+                    ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n\nTe daré algo de tiempo para que veas tus errores:\n\n{feedback_relacion}",pregunta)
+                    delay = 20000
+            else:
+                return
+        else:
+            if eleccion%2 == 0:
+                relacionadas.append(eleccion)
+                ui.colorear(eleccion,len(relacionadas)-1)
+            return
     else:
-        seguida = 0
-        ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n{p.get('feedback','')}",seleccionadas[indice],True)
-        delay = 15000
+        idx_original = opciones_barajadas[eleccion][0]
+        correcto = idx_original == pregunta["respuesta"]
+        if correcto:
+            seguida += 1
+            tiempo_anadido += pregunta.get("dificultad",1) * 30
+            ui.mostrar_feedback(f"\n\n\n\n\n\n\n\n\n✅ {random.choice(correcto_msgs)}",seleccionadas[indice])
+            delay = 1000
+        else:
+            seguida = 0
+            ui.mostrar_feedback(f"\n\n\n❌ {random.choice(incorrecto_msgs)}\n\n{pregunta.get('feedback','')}",seleccionadas[indice],True)
+            delay = 15000
         
     if seguida >= 5:
-        ui.mostrar_mensaje("Has contestado bien 5 preguntas de seguido, por eso tienes 2 minutos extra")
+        ui.mostrar_mensaje("Has contestado bien 5 preguntas de opción múltiple de seguido, por eso tienes 2 minutos extra")
         seguida = 0
         tiempo_anadido += 120
         
-    key = p["pregunta"]
+    key = pregunta["pregunta"]
     if key not in stats:
         stats[key] = {"intentos":0, "aciertos":0}
     stats[key]["intentos"] += 1

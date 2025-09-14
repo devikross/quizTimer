@@ -1,166 +1,3302 @@
 [
-	{"materia":"Español","pregunta":"Selecciona la frase con el diminutivo correcto de 'flor'","opciones":["La florcita creció en el jardín y todos la admiraban.","La florita creció en el jardín y todos la admiraban.","La florecita creció en el jardín y todos la admiraban.","El florcillo creció en el jardín y todos la admiraban."],"respuesta":2,"dificultad":2,"feedback":"El diminutivo correcto es 'florecita', usado correctamente en la frase para referirse a una flor pequeña."}, 
-	{"materia":"Español","pregunta":"Selecciona la frase que usa correctamente una palabra con tilde","opciones":["El arbol estaba lleno de hojas verdes y brillantes.","Los arboles estaban llenos de hojas verdes y brillantes.","El árbol estaba lleno de hojas verdes y brillantes.","El arból estaba lleno de hojas verdes y brillantes."],"respuesta":2,"dificultad":2,"feedback":"La palabra correcta con tilde es 'árbol', usada correctamente en la frase."}, 
-	{"materia":"Español","pregunta":"Elige la frase que usa un verbo en infinitivo correctamente","opciones":["Canta en el coro de la escuela todas las mañanas.","Cantó en el coro de la escuela todas las mañanas.","Cantar en el coro de la escuela todas las mañanas es divertido.","Cantando en el coro de la escuela todas las mañanas aprende mucho."],"respuesta":2,"dificultad":2,"feedback":"El infinitivo 'cantar' se usa correctamente en la frase como acción general."}, 
-	{"materia":"Español","pregunta":"Selecciona la frase escrita correctamente","opciones":["Hayer fui al parque con mis amigos y jugamos mucho.","Ayer fui al parque con mis amigos y jugamos mucho.","Ayerz fui al parque con mis amigos y jugamos mucho.","Ayeres fui al parque con mis amigos y jugamos mucho."],"respuesta":1,"dificultad":1,"feedback":"La forma correcta es 'Ayer', usada en la frase con ortografía correcta y contexto natural."}, 
-	{"materia":"Español","pregunta":"Selecciona la frase que usa correctamente un antónimo de 'feliz'","opciones":["Estaba alegre porque perdió su juguete y nadie lo consoló.","Estaba contento porque perdió su juguete y nadie lo consoló.","Estaba triste porque perdió su juguete y nadie lo consoló.","Estaba sonriente porque perdió su juguete y nadie lo consoló."],"respuesta":2,"dificultad":1,"feedback":"El antónimo de 'feliz' es 'triste', usado correctamente en la frase y con contexto coherente."},
-	{"materia":"Español","pregunta":"Elige la frase correctamente escrita","opciones":["Avion despegó muy temprano y los pasajero se sorprendieron por la demora.","Avión despegó muy temprano y los pasajeros se sorprendieron por la demora.","Abion despegó muy temprano y los pasajeros se sorprendieron por la demora.","Avión despego muy temprano y los pasajeros se sorprendieron por la demora."],"respuesta":1,"dificultad":1,"feedback":"La frase correcta es 'Avión despegó muy temprano y los pasajeros se sorprendieron por la demora'. Ortografía y acentos correctos mantienen coherencia.","img_pregunta":"000_avion.png"}, 
-	{"materia":"Español","pregunta":"Selecciona la frase que usa correctamente el antónimo de 'feliz'","opciones":["Estaba triste porque perdió su juguete y nadie le consoló.","Estaba triste porque perdió su juguete y nadie le consoló correctamente.","Estaba triste porque perdío su juguete y nadie le consoló.","Estaba trite porque perdió su juguete y nadie le consoló."],"respuesta":0,"dificultad":1,"feedback":"La frase correcta usa 'triste' como antónimo de 'feliz', con ortografía correcta."}, 
-	{"materia":"Español","pregunta":"¿Cuál frase usa correctamente un sustantivo?","opciones":["Correr rápido es importante para la salud y divertirse.","La mesa de la cocina estaba llena de libros y cuadernos.","Rápido corrió hacia la puerta sin mirar.","Cantar canciones alegres alegró la mañana."],"respuesta":1,"dificultad":1,"feedback":"La frase correcta usa 'mesa', un sustantivo concreto, correctamente."}, 
-	{"materia":"Español","pregunta":"¿Cuál frase usa correctamente un adjetivo?","opciones":["El verde manzana estaba en la mesa de la cocina.","El árbol estaba verde y lleno de hojas brillantes.","Corrió verde por el campo y no miró atrás.","Cantaba verde mientras cocinaba la cena."],"respuesta":1,"dificultad":1,"feedback":"La frase correcta usa 'verde' como adjetivo para describir un sustantivo de forma coherente."}, 
-	{"materia":"Español","pregunta":"Elige la frase con el plural correcto de 'flor'","opciones":["Las flores crecieron rápido y llenaron el jardín de colores.","Las flors crecieron rápido y llenaron el jardín de colores.","Las florez crecieron rápido y llenaron el jardín de colores.","Las flóres crecieron rápido y llenaron el jardín de colores."],"respuesta":0,"dificultad":1,"feedback":"El plural correcto es 'flores', formado añadiendo 'es' porque termina en 'r'.","img_pregunta":"000_flores.png"}, 
-	{"materia":"Español","pregunta":"Elige la frase con el diminutivo correcto de 'casa'","opciones":["La casota estaba muy lejos del pueblo y nadie la visitaba.","La casita estaba muy lejos del pueblo y todos querían visitarla.","El casero estaba muy lejos del pueblo y todos lo visitaban.","El casón estaba muy lejos del pueblo y nadie se acercaba."],"respuesta":1,"dificultad":1,"feedback":"El diminutivo correcto es 'casita', usado de manera coherente en el contexto de la frase."}, 
-	{"materia":"Español","pregunta":"Elige la frase correctamente escrita","opciones":["El camion pasó por la calle y levantó polvo.","La canción sonó en la radio y todos la cantaron.","El raton corría por la cocina y nadie lo veía.","El limon estaba podrido y nadie lo comió."],"respuesta":1,"dificultad":1,"feedback":"La frase correcta usa 'canción' con tilde, la palabra está correctamente escrita y el contexto es coherente."}, 
-	{"materia":"Español","pregunta":"Elige la frase que usa un verbo correctamente","opciones":["Correr por el parque al amanecer es saludable y divertido.","El árbol crecía lentamente y sus hojas caían.","La silla estaba rota y nadie podía sentarse.","El verde del césped iluminaba el jardín."],"respuesta":0,"dificultad":1,"feedback":"La frase correcta usa 'correr', un verbo, dentro de un contexto coherente de acción."}, 
-	{"materia":"Español","pregunta":"Elige la frase correctamente escrita","opciones":["Estube cansado después de correr por el parque.","Estuve cansado después de correr por el parque.","Estubé cansado después de correr por el parque.","Estúve cansado después de correr por el parque."],"respuesta":1,"dificultad":2,"feedback":"La forma correcta es 'Estuve', con ortografía correcta y contexto coherente."}, 
-	{"materia":"Español","pregunta":"Selecciona la frase que usa correctamente el antónimo de 'rápido'","opciones":["El caracol se movía lento y nadie podía alcanzarlo.","El caracol se movía veloz y nadie podía alcanzarlo.","El caracol se movía lento y nadie lo podía alcanzar correctamente.","El caracol se movía ligéro y nadie podía alcanzarlo."],"respuesta":0,"dificultad":1,"feedback":"El antónimo de 'rápido' es 'lento', usado correctamente y con ortografía correcta.","img_pregunta":"000_rapido.png"}, 
-	{"materia":"Español","pregunta":"Selecciona la frase que usa correctamente un sinónimo de 'alegre'","opciones":["Estaba feliz porque recibió buenas noticias y todos lo notaron.","Estaba triste porque recibió buenas noticias y todos lo notaron.","Estaba cansado porque recibió buenas noticias y todos lo notaron.","Estaba enojado porque recibió buenas noticias y todos lo notaron."],"respuesta":0,"dificultad":1,"feedback":"El sinónimo de 'alegre' es 'feliz', usado correctamente en la frase."}, 
-	{"materia":"Español","pregunta":"Elige la frase que usa un sustantivo propio correctamente","opciones":["Niño corrió hacia México y se perdió en la ciudad.","Perro jugaba en México y todos lo miraban.","México estaba lleno de mesas y sillas.","Árbol crecía en México y nadie lo cuidaba."],"respuesta":0,"dificultad":2,"feedback":"El sustantivo propio 'México' está correctamente usado como lugar en la frase."}, 
-	{"materia":"Español","pregunta":"Elige la frase que usa un sustantivo común correctamente","opciones":["Juan caminaba por la ciudad con su mochila.","Colombia estaba soleada y todos paseaban.","La ciudad estaba llena de coches y personas caminando.","Pedro se perdió en la ciudad sin ayuda."],"respuesta":2,"dificultad":2,"feedback":"El sustantivo común 'ciudad' se usa correctamente en la frase, refiriéndose a un lugar general."}, 
-	{"materia":"Español","pregunta":"Elige la frase que usa correctamente un adjetivo calificativo","opciones":["El niño rápido corrió hacia la escuela sin mirar atrás.","Correr rápido es importante para la salud.","Niño jugaba rápido en el patio de la escuela.","Canción rápida alegró a todos los presentes."],"respuesta":0,"dificultad":2,"feedback":"El adjetivo 'rápido' describe al sustantivo 'niño' correctamente, mostrando cualidad."}, 
-	{"materia":"Español","pregunta":"Selecciona la frase con el plural correcto de 'luz'","opciones":["Las luces de la ciudad iluminaban la noche y todos miraban.","Las luzes de la ciudad iluminaban la noche y todos miraban.","Las luzs de la ciudad iluminaban la noche y todos miraban.","La luz de la ciudad iluminaba la noche y todos miraban."],"respuesta":0,"dificultad":2,"feedback":"El plural correcto es 'luces', usado correctamente en contexto."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el número 1 en inglés","opciones":["One went to the park and played with friends all day.","Two went to the park and played with friends all day.","Three went to the park and played with friends all day.","Four went to the park and played with friends all day."],"respuesta":0,"dificultad":1,"feedback":"El número 1 en inglés es 'One', usado correctamente como sujeto de la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el número 2 en inglés","opciones":["One cats were sleeping on the sofa quietly.","Two cats were sleeping on the sofa quietly.","Three cats were sleeping on the sofa quietly.","Four cats were sleeping on the sofa quietly."],"respuesta":1,"dificultad":1,"feedback":"El número 2 en inglés es 'Two', usado correctamente para indicar cantidad."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el color 'rojo' en inglés","opciones":["Red apples were on the table, bright and shiny.","Blue apples were on the table, bright and shiny.","Green apples were on the table, bright and shiny.","Yellow apples were on the table, bright and shiny."],"respuesta":0,"dificultad":1,"feedback":"'Red' significa rojo en inglés y se usa correctamente para describir las manzanas."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el color 'azul' en inglés","opciones":["Blue sky covered the mountains in the morning light.","Red sky covered the mountains in the morning light.","Green sky covered the mountains in the morning light.","Yellow sky covered the mountains in the morning light."],"respuesta":0,"dificultad":1,"feedback":"'Blue' significa azul en inglés y describe correctamente el cielo."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'gato' en inglés","opciones":["The cat slept on the couch all afternoon.","The dog slept on the couch all afternoon.","The bird slept on the couch all afternoon.","The horse slept on the couch all afternoon."],"respuesta":0,"dificultad":1,"feedback":"'Cat' significa gato en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'perro' en inglés","opciones":["The dog barked loudly at the mailman.","The cat barked loudly at the mailman.","The fish barked loudly at the mailman.","The bird barked loudly at the mailman."],"respuesta":0,"dificultad":1,"feedback":"'Dog' significa perro en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'casa' en inglés","opciones":["My house is near the river and has a beautiful garden.","My home is near the river and has a beautiful garden.","The building is near the river and has a beautiful garden.","The room is near the river and has a beautiful garden."],"respuesta":0,"dificultad":1,"feedback":"'House' significa casa en inglés y se usa correctamente para referirse al lugar donde vives."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'escuela' en inglés","opciones":["The school is close to my house and I walk there every day.","The college is close to my house and I walk there every day.","The university is close to my house and I walk there every day.","The class is close to my house and I walk there every day."],"respuesta":0,"dificultad":2,"feedback":"'School' significa escuela en inglés y se usa correctamente en el contexto de educación básica."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'hermano' en inglés","opciones":["My brother helps me with homework every evening.","My sister helps me with homework every evening.","My father helps me with homework every evening.","My uncle helps me with homework every evening."],"respuesta":0,"dificultad":2,"feedback":"'Brother' significa hermano en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'hermana' en inglés","opciones":["My sister likes to read books before going to sleep.","My brother likes to read books before going to sleep.","My mother likes to read books before going to sleep.","My aunt likes to read books before going to sleep."],"respuesta":0,"dificultad":2,"feedback":"'Sister' significa hermana en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el número 5 en inglés","opciones":["Four birds were sitting on the fence quietly.","Five birds were sitting on the fence quietly.","Six birds were sitting on the fence quietly.","Seven birds were sitting on the fence quietly."],"respuesta":1,"dificultad":1,"feedback":"'Five' significa cinco en inglés y se usa correctamente para indicar cantidad."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta que dice el número 10 en inglés","opciones":["Ten children were playing in the park on Saturday morning.","Twelve children were playing in the park on Saturday morning.","Twenty children were playing in the park on Saturday morning.","Eleven children were playing in the park on Saturday morning."],"respuesta":0,"dificultad":2,"feedback":"'Ten' significa diez en inglés y se usa correctamente para indicar la cantidad de niños."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'manzana' en inglés","opciones":["I ate an apple for breakfast this morning.","I ate a banana for breakfast this morning.","I ate an orange for breakfast this morning.","I ate a grape for breakfast this morning."],"respuesta":0,"dificultad":1,"feedback":"'Apple' significa manzana en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'plátano' en inglés","opciones":["I peeled a banana and ate it quickly.","I peeled an apple and ate it quickly.","I peeled an orange and ate it quickly.","I peeled a grape and ate it quickly."],"respuesta":0,"dificultad":1,"feedback":"'Banana' significa plátano en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"Elige la frase correcta para decir 'agua' en inglés","opciones":["I drank water after running around the park.","I drank juice after running around the park.","I drank milk after running around the park.","I drank tea after running around the park."],"respuesta":0,"dificultad":1,"feedback":"'Water' significa agua en inglés y se usa correctamente en la frase."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Hay una manzana en la mesa'?","opciones":["There is one apple on the table / Der is uan ápol on de téibl","There are two apples on the table / Der ar tú ápols on de téibl","There is three apple on the table / Der is zrí ápol on de téibl","There are four apples on the table / Der ar for ápols on de téibl"],"respuesta":0,"dificultad":1,"feedback":"La correcta es 'There is one apple on the table', se pronuncia 'Der is uan ápol on de téibl', indicando que hay una sola manzana."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'El gato duerme en la silla'?","opciones":["The cat sleeps on the chair / De cat slipz on de chéyer","The dog sleeps on the chair / De dog slipz on de chéyer","The cat sleep on the chair / De cat slip on de chéyer","The bird sleeps on the chair / De berd slipz on de chéyer"],"respuesta":0,"dificultad":1,"feedback":"'The cat sleeps on the chair' significa 'El gato duerme en la silla', se pronuncia 'De cat slipz on de chéyer'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Hay dos perros en el jardín'?","opciones":["There are two dogs in the garden / Der ar tú dogs in de gárden","There is one dog in the garden / Der is uan dog in de gárden","There are three dogs in the garden / Der ar zrí dogs in de gárden","There is two dog in the garden / Der is tú dog in de gárden"],"respuesta":0,"dificultad":1,"feedback":"'There are two dogs in the garden' significa 'Hay dos perros en el jardín', se pronuncia 'Der ar tú dogs in de gárden'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'El sol brilla en el cielo'?","opciones":["The sun shines in the sky / De san sháinz in de skái","The moon shines in the sky / De mun sháinz in de skái","The sun shine in the sky / De san sháin in de skái","The star shines in the sky / De star sháinz in de skái"],"respuesta":0,"dificultad":2,"feedback":"'The sun shines in the sky' significa 'El sol brilla en el cielo', se pronuncia 'De san sháinz in de skái'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'La casa es grande'?","opciones":["The house is big / De jaus is big","The home is big / De jom is big","The house are big / De jaus ar big","The house is small / De jaus is smol"],"respuesta":0,"dificultad":1,"feedback":"'The house is big' significa 'La casa es grande', se pronuncia 'De jaus is big'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Mi hermano juega en el parque'?","opciones":["My brother plays in the park / Mai bróder pleiz in de park","My sister plays in the park / Mai sístar pleiz in de park","My brother play in the park / Mai bróder plei in de park","My brother sleeps in the park / Mai bróder slipz in de park"],"respuesta":0,"dificultad":2,"feedback":"'My brother plays in the park' significa 'Mi hermano juega en el parque', se pronuncia 'Mai bróder pleiz in de park'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Ella come una naranja'?","opciones":["She eats an orange / Shi its an óranch","He eats an orange / Hi its an óranch","She eat a orange / Shi it a óranch","She drinks an orange / Shi drinks an óranch"],"respuesta":0,"dificultad":1,"feedback":"'She eats an orange' significa 'Ella come una naranja', se pronuncia 'Shi its an óranch'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Él bebe agua'?","opciones":["He drinks water / Hi drinks uóter","He drinks juice / Hi drinks dzús","He drink water / Hi drink uóter","He eats water / Hi its uóter"],"respuesta":0,"dificultad":1,"feedback":"'He drinks water' significa 'Él bebe agua', se pronuncia 'Hi drinks uóter'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'La luna está en el cielo'?","opciones":["The moon is in the sky / De mun is in de skái","The sun is in the sky / De san is in de skái","The moon are in the sky / De mun ar in de skái","The star is in the sky / De star is in de skái"],"respuesta":0,"dificultad":2,"feedback":"'The moon is in the sky' significa 'La luna está en el cielo', se pronuncia 'De mun is in de skái'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'El gato y el perro duermen juntos'?","opciones":["The cat and the dog sleep together / De cat and de dog slip tugéder","The cat and the dog plays together / De cat and de dog pleiz tugéder","The cat and the dog sleeps separate / De cat and de dog slipz separate","The cat sleeps with the dog / De cat slipz with de dog"],"respuesta":0,"dificultad":2,"feedback":"'The cat and the dog sleep together' significa 'El gato y el perro duermen juntos', se pronuncia 'De cat and de dog slip tugéder'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'El árbol es alto y verde'?","opciones":["The tree is tall and green / De trí is tol and grín","The tree are tall and green / De trí ar tol and grín","The tree is big and green / De trí is big and grín","The tree is tall and blue / De trí is tol and blu"],"respuesta":0,"dificultad":2,"feedback":"'The tree is tall and green' significa 'El árbol es alto y verde', se pronuncia 'De trí is tol and grín'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Los pájaros vuelan en el cielo'?","opciones":["The birds fly in the sky / De berds flái in de skái","The birds fly on the sky / De berds flái on de skái","The bird flies in the sky / De berd fláis in de skái","The birds sleep in the sky / De berds slip in de skái"],"respuesta":0,"dificultad":2,"feedback":"'The birds fly in the sky' significa 'Los pájaros vuelan en el cielo', se pronuncia 'De berds flái in de skái'."},
-	{"materia":"Inglés","pregunta":"¿Cómo se dice y escribe 'Tengo un libro en mi mochila'?","opciones":["I have a book in my backpack / Ai hav a buk in mai bákpak","I has a book in my backpack / Ai haz a buk in mai bákpak","I have a book on my backpack / Ai hav a buk on mai bákpak","I hold a book in my backpack / Ai hóld a buk in mai bákpak"],"respuesta":0,"dificultad":2,"feedback":"'I have a book in my backpack' significa 'Tengo un libro en mi mochila', se pronuncia 'Ai hav a buk in mai bákpak'."},
-	{"materia":"Inglés","pregunta":"Completa la frase “We are Shapes! / Wi ar Cheips”","opciones":["You can see us everywhere","We have no sides","We go round and round","We are only in books"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'You can see us everywhere.' Esta línea se repite al inicio de la canción para indicar que las formas están por todos lados.","audio":"we_are_shapes.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Square / Aim a Skwér”","opciones":["I have four equal sides","I go round and round","I have three pointy sides","I am curvy and lovely"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I have four sides.' Un cuadrado siempre tiene cuatro lados iguales, como se menciona en la canción.","audio":"square.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Circle / Aim a Sírcol”","opciones":["I go round and round and round, I have no start, I have no end","I have four sides","I have three pointy sides","I have five pointy arms"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I go round and round and round, I have no start, I have no end.' El círculo se describe por su movimiento continuo y sin principio ni fin.","audio":"circle.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Triangle / Aim a Traiángl”","opciones":["I have three sides, I’m a pointy little shape","I go round and round","I have four sides","I have five pointy arms"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I have three sides, I’m a pointy little shape.' El triángulo se caracteriza por tener tres lados y puntas agudas.","audio":"triangle.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Rectangle / Aim a Réktángl”","opciones":["I got really long sides, I have four sides","I go round and round","I have three pointy sides","I have five pointy arms"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I got really long sides, I have four sides.' El rectángulo es como un cuadrado alargado, con cuatro lados y dos más largos que otros.","audio":"rectangle.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Star / Aim a Stár”","opciones":["I have five pointy arms, in the sky so far","I go round and round","I have four sides","I have three pointy sides"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I have five pointy arms, in the sky so far.' La estrella tiene cinco puntas y se encuentra en el cielo, como se canta en la canción.","audio":"star.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Heart / Aim a Járt”","opciones":["I’m so curvy and so smart, I’m a really lovely shape","I have four sides","I go round and round","I have five pointy arms"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'I’m so curvy and so smart, I’m a really lovely shape.' El corazón se describe como curvo y encantador.","audio":"heart.mp3"},
-	{"materia":"Inglés","pregunta":"Completa la frase “I’m a Diamond / Aim a Dáiámond”","opciones":["You can see me on a ring, I’m so shiny and so bright","I have four sides","I have three pointy sides","I have five pointy arms"],"respuesta":0,"dificultad":2,"feedback":"La frase completa correcta es: 'You can see me on a ring, I’m so shiny and so bright.' El diamante es brillante y se encuentra en anillos y joyería.","audio":"diamond.mp3"},
-	{"materia":"Biología","pregunta":"¿Qué órgano usamos para respirar?","opciones":["Pulmones","Corazón","Estómago","Hígado"],"respuesta":0,"dificultad":1,"feedback":"Respiramos con los pulmones.\nEllos se llenan de aire y llevan oxígeno a la sangre."},
-	{"materia":"Biología","pregunta":"¿Qué órgano bombea la sangre?","opciones":["Corazón","Pulmones","Huesos","Riñones"],"respuesta":0,"dificultad":1,"feedback":"El corazón es como una bomba.\nEmpuja la sangre para que llegue a todo el cuerpo."},
-	{"materia":"Biología","pregunta":"¿Cómo se llaman los huesos que protegen el pecho?","opciones":["Costillas","Fémur","Mano","Cráneo"],"respuesta":0,"dificultad":1,"feedback":"Las costillas protegen los pulmones y el corazón.\nSon como una jaula que cuida los órganos."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo usamos para pensar?","opciones":["Cerebro","Corazón","Pulmones","Estómago"],"respuesta":0,"dificultad":1,"feedback":"Pensamos con el cerebro.\nEs como una computadora que controla todo lo que hacemos."},
-	{"materia":"Biología","pregunta":"¿Qué órganos usamos para ver?","opciones":["Ojos","Orejas","Manos","Nariz"],"respuesta":0,"dificultad":1,"feedback":"Vemos con los ojos.\nEllos captan la luz y el cerebro entiende las imágenes."},
-	{"materia":"Biología","pregunta":"¿Cómo se llama el líquido rojo que circula por el cuerpo?","opciones":["Sangre","Agua","Leche","Jugo"],"respuesta":0,"dificultad":1,"feedback":"Ese líquido rojo es la sangre.\nLleva oxígeno y alimento a las células."},
-	{"materia":"Biología","pregunta":"¿Qué órgano nos ayuda a escuchar?","opciones":["Orejas","Ojos","Boca","Nariz"],"respuesta":0,"dificultad":1,"feedback":"Escuchamos con las orejas.\nRecogen los sonidos y el cerebro los entiende."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo nos ayuda a oler?","opciones":["Nariz","Boca","Ojos","Manos"],"respuesta":0,"dificultad":1,"feedback":"Olemos con la nariz.\nDentro tiene sensores que detectan los olores."},
-	{"materia":"Biología","pregunta":"¿Cómo se llama el órgano que nos ayuda a digerir la comida?","opciones":["Estómago","Pulmones","Hígado","Corazón"],"respuesta":0,"dificultad":2,"feedback":"El estómago deshace la comida en pedacitos pequeños.\nAsí el cuerpo puede sacar la energía."},
-	{"materia":"Biología","pregunta":"¿Qué hueso protege el cerebro?","opciones":["Cráneo","Costillas","Columna","Brazo"],"respuesta":0,"dificultad":2,"feedback":"El cráneo protege el cerebro.\nEs como un casco duro alrededor de la cabeza."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo late todo el tiempo?","opciones":["Corazón","Hígado","Estómago","Pulmones"],"respuesta":0,"dificultad":1,"feedback":"El corazón late sin parar.\nEse sonido es la sangre moviéndose."},
-	{"materia":"Biología","pregunta":"¿Qué hacemos con los pulmones?","opciones":["Respirar","Comer","Caminar","Pensar"],"respuesta":0,"dificultad":1,"feedback":"Con los pulmones respiramos.\nAspiramos oxígeno y sacamos aire usado."},
-	{"materia":"Biología","pregunta":"¿Cómo se llama el conjunto de huesos del cuerpo?","opciones":["Esqueleto","Cráneo","Pierna","Brazo"],"respuesta":0,"dificultad":2,"feedback":"Todos los huesos juntos forman el esqueleto.\nNos da forma y nos sostiene."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo usamos para probar los sabores?","opciones":["Lengua","Nariz","Oídos","Manos"],"respuesta":0,"dificultad":1,"feedback":"La lengua tiene papilas gustativas.\nEllas reconocen los sabores dulces, salados, ácidos y amargos."},
-	{"materia":"Biología","pregunta":"¿Qué líquido del cuerpo es transparente y ayuda a limpiar?","opciones":["Lágrimas","Sangre","Orina","Saliva"],"respuesta":0,"dificultad":2,"feedback":"Las lágrimas limpian los ojos y los mantienen húmedos."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo conecta la cabeza con el resto?","opciones":["Cuello","Pierna","Brazo","Cintura"],"respuesta":0,"dificultad":1,"feedback":"El cuello une la cabeza con el cuerpo.\nPermite moverla de un lado a otro."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo protege la espalda y sostiene el cuerpo?","opciones":["Columna vertebral","Costillas","Cráneo","Cadera"],"respuesta":0,"dificultad":2,"feedback":"La columna vertebral es como el pilar del cuerpo.\nNos permite mantenernos de pie."},
-	{"materia":"Biología","pregunta":"¿Qué necesitamos tomar para vivir y mantenernos hidratados?","opciones":["Agua","Leche","Jugo","Refresco"],"respuesta":0,"dificultad":1,"feedback":"El agua es vital.\nSin agua el cuerpo no puede funcionar bien."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo usamos para agarrar objetos?","opciones":["Manos","Pies","Orejas","Ojos"],"respuesta":0,"dificultad":1,"feedback":"Usamos las manos para agarrar y sujetar cosas.\nLos dedos ayudan a hacer fuerza o precisión."},
-	{"materia":"Biología","pregunta":"¿Qué parte del cuerpo nos ayuda a mantenernos de pie y caminar?","opciones":["Pies","Manos","Cabeza","Orejas"],"respuesta":0,"dificultad":1,"feedback":"Con los pies nos sostenemos y caminamos.\nEllos cargan todo nuestro peso."},
-	{"materia":"Sociales","pregunta":"¿Cuál es el planeta donde vivimos?","opciones":["Marte","Venus","Tierra","Júpiter"],"respuesta":2,"dificultad":1,"feedback":"Vivimos en la Tierra.\nEs el tercer planeta del sistema solar y el único con vida conocida."},
-	{"materia":"Sociales","pregunta":"El río más largo de Colombia es:","opciones":["Magdalena","Amazonas","Orinoco","Cauca"],"respuesta":0,"dificultad":2,"feedback":"El río Magdalena es el más largo de Colombia.\nAtraviesa el país de sur a norte y es muy importante para el transporte."},
-	{"materia":"Sociales","pregunta":"La capital de Colombia es:","opciones":["Medellín","Bogotá","Cali","Cartagena"],"respuesta":1,"dificultad":1,"feedback":"La capital de Colombia es Bogotá.\nEstá ubicada en el altiplano cundiboyacense."},
-	{"materia":"Sociales","pregunta":"¿Quién fue el libertador de Colombia?","opciones":["Bolívar","Nariño","Santander","Sucre"],"respuesta":0,"dificultad":2,"feedback":"Simón Bolívar fue el Libertador de Colombia.\nLideró la independencia contra España."},
-	{"materia":"Sociales","pregunta":"¿Qué océanos rodean a Colombia?","opciones":["Pacífico y Atlántico","Atlántico y Ártico","Pacífico y Índico","Atlántico y Índico"],"respuesta":0,"dificultad":2,"feedback":"Colombia tiene costas en el océano Pacífico y el mar Caribe, que conecta con el Atlántico."},
-	{"materia":"Sociales","pregunta":"¿Qué es una frontera?","opciones":["Un río","Un límite entre países","Una montaña","Un océano"],"respuesta":1,"dificultad":1,"feedback":"Una frontera es el límite que separa a dos países o regiones."},
-	{"materia":"Sociales","pregunta":"¿En qué continente está Colombia?","opciones":["África","Asia","América","Europa"],"respuesta":2,"dificultad":1,"feedback":"Colombia está en América, específicamente en América del Sur."},
-	{"materia":"Sociales","pregunta":"¿Cuál es la moneda oficial de Colombia?","opciones":["Peso","Dólar","Euro","Real"],"respuesta":0,"dificultad":1,"feedback":"La moneda de Colombia es el peso colombiano (COP)."},
-	{"materia":"Sociales","pregunta":"¿Qué colores tiene la bandera de Colombia?","opciones":["Rojo, blanco y azul","Amarillo, azul y rojo","Verde, blanco y rojo","Negro, amarillo y verde"],"respuesta":1,"dificultad":1,"feedback":"La bandera de Colombia tiene amarillo, azul y rojo.\nEl amarillo ocupa la mitad superior."},
-	{"materia":"Sociales","pregunta":"El lugar donde se hacen las leyes en Colombia es:","opciones":["Congreso","Palacio","Alcaldía","Gobernación"],"respuesta":0,"dificultad":2,"feedback":"El Congreso de la República hace las leyes.\nEstá compuesto por el Senado y la Cámara de Representantes."},
-	{"materia":"Sociales","pregunta":"El día de la Independencia de Colombia se celebra el:","opciones":["7 de agosto","20 de julio","12 de octubre","1 de mayo"],"respuesta":1,"dificultad":2,"feedback":"El 20 de julio de 1810 se conmemora el inicio del proceso de independencia."},
-	{"materia":"Sociales","pregunta":"¿Qué cordilleras forman los Andes en Colombia?","opciones":["Oriental, Central y Occidental","Norte y Sur","Este y Oeste","Sierra Nevada"],"respuesta":0,"dificultad":3,"feedback":"En Colombia los Andes se dividen en tres cordilleras: Oriental, Central y Occidental."},
-	{"materia":"Sociales","pregunta":"El principal recurso natural que exporta Colombia es:","opciones":["Café","Banano","Carbón","Petróleo"],"respuesta":0,"dificultad":2,"feedback":"Colombia es reconocida mundialmente por el café.\nTambién exporta carbón y petróleo."},
-	{"materia":"Sociales","pregunta":"La Sierra Nevada de Santa Marta está en:","opciones":["Cundinamarca","Magdalena","Antioquia","Tolima"],"respuesta":1,"dificultad":2,"feedback":"La Sierra Nevada de Santa Marta está en el departamento del Magdalena.\nEs la montaña costera más alta del mundo."},
-	{"materia":"Sociales","pregunta":"¿Qué es la Constitución?","opciones":["Un himno","Una ley máxima","Un decreto","Un acuerdo"],"respuesta":1,"dificultad":2,"feedback":"La Constitución es la ley máxima de un país.\nEn Colombia la actual es la de 1991."},
-	{"materia":"Sociales","pregunta":"¿Qué es un mapa?","opciones":["Un dibujo de un lugar","Un cuento","Un objeto","Un edificio"],"respuesta":0,"dificultad":1,"feedback":"Un mapa es una representación gráfica de un lugar.\nSirve para ubicar países, ciudades y ríos."},
-	{"materia":"Sociales","pregunta":"El escudo de Colombia tiene:","opciones":["Un cóndor","Un león","Un caballo","Un tigre"],"respuesta":0,"dificultad":2,"feedback":"El escudo tiene un cóndor con las alas abiertas, símbolo de libertad."},
-	{"materia":"Sociales","pregunta":"¿Qué significa democracia?","opciones":["Gobierno del pueblo","Gobierno de un rey","Gobierno militar","Gobierno de ricos"],"respuesta":0,"dificultad":2,"feedback":"Democracia significa gobierno del pueblo.\nLos ciudadanos eligen a sus representantes mediante el voto."},
-	{"materia":"Sociales","pregunta":"¿Qué departamentos rodean a Bogotá?","opciones":["Antioquia y Valle","Tolima, Cundinamarca y Boyacá","Cundinamarca","Meta y Santander"],"respuesta":2,"dificultad":3,"feedback":"Bogotá es un distrito capital rodeado completamente por el departamento de Cundinamarca."},
-	{"materia":"Sociales","pregunta":"¿Cuál es la región más poblada de Colombia?","opciones":["Pacífica","Caribe","Andina","Orinoquía"],"respuesta":2,"dificultad":2,"feedback":"La región Andina es la más poblada.\nAllí están Bogotá, Medellín y Cali."},
-	{"materia":"Geometría","pregunta":"Un triángulo que tiene sus tres lados iguales se llama:","opciones":["escaleno","isósceles","equilátero","rectángulo"],"respuesta":2,"dificultad":1,"feedback":"Se llama triángulo equilátero.\nTodos sus lados y ángulos son iguales (60° cada ángulo)."},
-	{"materia":"Geometría","pregunta":"La suma de los ángulos internos de un triángulo es:","opciones":["90°","180°","270°","360°"],"respuesta":1,"dificultad":1,"feedback":"Siempre suman 180°.\nEjemplo: 60° + 70° + 50° = 180°."},
-	{"materia":"Geometría","pregunta":"Un cuadrado tiene:","opciones":["2 lados iguales","3 lados iguales","4 lados iguales","ningún lado igual"],"respuesta":2,"dificultad":1,"feedback":"El cuadrado tiene 4 lados iguales y 4 ángulos rectos (90°)."},
-	{"materia":"Geometría","pregunta":"Un polígono de 5 lados se llama:","opciones":["hexágono","pentágono","heptágono","octágono"],"respuesta":1,"dificultad":1,"feedback":"Se llama pentágono.\nEjemplo: la figura del símbolo militar clásico."},
-	{"materia":"Geometría","pregunta":"Un círculo tiene:","opciones":["radio y diámetro","solo radio","solo diámetro","ninguno"],"respuesta":0,"dificultad":1,"feedback":"El círculo tiene radio (del centro a un punto de la circunferencia) y diámetro (dos radios)."},
-	{"materia":"Geometría","pregunta":"El área de un rectángulo se calcula:","opciones":["base+altura","base-altura","base×altura","base/altura"],"respuesta":2,"dificultad":1,"feedback":"El área es base × altura.\nEjemplo: 5×3=15."},
-	{"materia":"Geometría","pregunta":"Un ángulo recto mide:","opciones":["45°","60°","90°","120°"],"respuesta":2,"dificultad":1,"feedback":"El ángulo recto siempre mide 90°.\nEjemplo: la esquina de un libro."},
-	{"materia":"Geometría","pregunta":"El volumen de un cubo se calcula:","opciones":["lado³","lado²","base×altura","radio²"],"respuesta":0,"dificultad":2,"feedback":"El volumen de un cubo es lado × lado × lado = lado³."},
-	{"materia":"Geometría","pregunta":"Un triángulo con un ángulo de 90° se llama:","opciones":["rectángulo","equilátero","isósceles","obtusángulo"],"respuesta":0,"dificultad":1,"feedback":"Se llama triángulo rectángulo.\nEjemplo: el usado en construcciones."},
-	{"materia":"Geometría","pregunta":"Un polígono de 8 lados se llama:","opciones":["heptágono","hexágono","octágono","decágono"],"respuesta":2,"dificultad":2,"feedback":"Se llama octágono.\nEjemplo: la señal de alto."},
-	{"materia":"Geometría","pregunta":"El perímetro de un cuadrado se calcula:","opciones":["4×lado","2×lado","lado²","lado³"],"respuesta":0,"dificultad":1,"feedback":"El perímetro es 4 veces el lado.\nEjemplo: lado=5 → 4×5=20."},
-	{"materia":"Geometría","pregunta":"El diámetro es:","opciones":["igual al radio","la mitad del radio","el doble del radio","no tiene relación"],"respuesta":2,"dificultad":2,"feedback":"El diámetro es el doble del radio.\nEjemplo: radio=3 → diámetro=6."},
-	{"materia":"Geometría","pregunta":"La figura que tiene 3 lados se llama:","opciones":["cuadrado","círculo","triángulo","rombo"],"respuesta":2,"dificultad":1,"feedback":"Se llama triángulo.\nEs el polígono más simple."},
-	{"materia":"Geometría","pregunta":"Un ángulo mayor de 90° pero menor de 180° es:","opciones":["recto","agudo","obtuso","llano"],"respuesta":2,"dificultad":2,"feedback":"Es un ángulo obtuso.\nEjemplo: 120°."},
-	{"materia":"Geometría","pregunta":"El área de un triángulo es:","opciones":["base×altura","(base×altura)/2","lado³","perímetro/2"],"respuesta":1,"dificultad":2,"feedback":"Área=(base×altura)/2.\nEjemplo: base=6, altura=4 → (6×4)/2=12."},
-	{"materia":"Geometría","pregunta":"El radio es:","opciones":["la mitad del diámetro","el doble del diámetro","igual al diámetro","ninguno"],"respuesta":0,"dificultad":1,"feedback":"El radio es la mitad del diámetro.\nEjemplo: diámetro=10 → radio=5."},
-	{"materia":"Geometría","pregunta":"Una figura con todos los lados y ángulos iguales se llama:","opciones":["regular","irregular","equilátera","recta"],"respuesta":0,"dificultad":2,"feedback":"Se llama polígono regular.\nEjemplo: hexágono regular."},
-	{"materia":"Geometría","pregunta":"Un ángulo agudo es:","opciones":["<90°",">90°","=90°","=180°"],"respuesta":0,"dificultad":1,"feedback":"Un ángulo agudo siempre es menor a 90°.\nEjemplo: 45°."},
-	{"materia":"Geometría","pregunta":"Un rombo tiene:","opciones":["2 lados iguales","3 lados iguales","4 lados iguales","ningún lado igual"],"respuesta":2,"dificultad":2,"feedback":"El rombo tiene 4 lados iguales, pero ángulos no rectos."},
-	{"materia":"Geometría","pregunta":"El volumen de un prisma rectangular es:","opciones":["lado³","base×altura","largo×ancho×alto","radio²"],"respuesta":2,"dificultad":2,"feedback":"Volumen=largo×ancho×alto.\nEjemplo: 2×3×4=24."},
-	{"materia":"Programación","pregunta":"¿Qué significa 'print' en Python?","opciones":["imprimir en consola","crear variable","leer archivo","finalizar programa"],"respuesta":0,"dificultad":1,"feedback":"La función print muestra texto o resultados en la consola."},
-	{"materia":"Programación","pregunta":"En programación, un bucle sirve para:","opciones":["detener un programa","repetir instrucciones","crear funciones","ordenar datos"],"respuesta":1,"dificultad":1,"feedback":"Un bucle repite instrucciones varias veces hasta cumplir una condición."},
-	{"materia":"Programación","pregunta":"¿Qué símbolo se usa para asignar valores en Python?","opciones":["=","==","===","<-"],"respuesta":0,"dificultad":1,"feedback":"El símbolo = asigna valores a variables.\nEjemplo: x=5."},
-	{"materia":"Programación","pregunta":"En Python, '==' significa:","opciones":["igualdad","asignación","mayor que","fin"],"respuesta":0,"dificultad":1,"feedback":"El operador == compara si dos valores son iguales."},
-	{"materia":"Programación","pregunta":"Una lista en Python se escribe:","opciones":["{}","[]","()","<>"],"respuesta":1,"dificultad":1,"feedback":"Las listas usan corchetes [].\nEjemplo: numeros=[1,2,3]."},
-	{"materia":"Programación","pregunta":"¿Qué estructura permite elegir entre varias opciones?","opciones":["for","if","while","print"],"respuesta":1,"dificultad":1,"feedback":"La estructura if permite tomar decisiones en el código."},
-	{"materia":"Programación","pregunta":"¿Cómo comienza un comentario en Python?","opciones":["//","#","/*","--"],"respuesta":1,"dificultad":1,"feedback":"Un comentario inicia con #.\nEjemplo: # esto es un comentario."},
-	{"materia":"Programación","pregunta":"La extensión de archivo de Python es:","opciones":[".txt",".py",".exe",".java"],"respuesta":1,"dificultad":1,"feedback":"Los archivos Python terminan en .py."},
-	{"materia":"Programación","pregunta":"¿Qué significa 'len' en Python?","opciones":["longitud","número primo","suma","resta"],"respuesta":0,"dificultad":1,"feedback":"La función len devuelve la cantidad de elementos en una lista o cadena."},
-	{"materia":"Programación","pregunta":"¿Qué hace 'input()' en Python?","opciones":["muestra texto","termina programa","solicita datos al usuario","borra pantalla"],"respuesta":2,"dificultad":1,"feedback":"La función input() pide al usuario ingresar datos."},
-	{"materia":"Programación","pregunta":"Una variable sirve para:","opciones":["guardar datos","borrar datos","detener código","copiar archivos"],"respuesta":0,"dificultad":1,"feedback":"Una variable almacena datos para usarlos en el programa."},
-	{"materia":"Programación","pregunta":"En Python, 'for' se usa para:","opciones":["repetir código","comparar valores","finalizar programa","definir clases"],"respuesta":0,"dificultad":1,"feedback":"El bucle for repite código sobre una secuencia de datos."},
-	{"materia":"Programación","pregunta":"El símbolo '+' en cadenas de texto sirve para:","opciones":["sumar","concatenar","restar","multiplicar"],"respuesta":1,"dificultad":2,"feedback":"El operador + une cadenas de texto.\nEjemplo: 'hola'+' mundo' → 'hola mundo'."},
-	{"materia":"Programación","pregunta":"¿Qué significa 'def' en Python?","opciones":["definir función","borrar variable","crear lista","definir bucle"],"respuesta":0,"dificultad":2,"feedback":"La palabra def define funciones en Python."},
-	{"materia":"Programación","pregunta":"Un 'diccionario' en Python se escribe:","opciones":["[]","{}","()","<>"],"respuesta":1,"dificultad":2,"feedback":"Los diccionarios usan llaves {} con pares clave:valor."},
-	{"materia":"Programación","pregunta":"En Python, 'None' significa:","opciones":["número cero","texto vacío","ausencia de valor","fin de bucle"],"respuesta":2,"dificultad":2,"feedback":"None representa la ausencia de un valor asignado."},
-	{"materia":"Programación","pregunta":"¿Qué hace 'break' en un bucle?","opciones":["termina el bucle","repite más","pausa","nada"],"respuesta":0,"dificultad":2,"feedback":"Break detiene el bucle inmediatamente."},
-	{"materia":"Programación","pregunta":"El operador '%' en Python calcula:","opciones":["módulo o residuo","división entera","potencia","resta"],"respuesta":0,"dificultad":2,"feedback":"% devuelve el residuo de una división.\nEjemplo: 7%3=1."},
-	{"materia":"Programación","pregunta":"¿Qué significa 'True' en Python?","opciones":["verdadero","falso","cero","nada"],"respuesta":0,"dificultad":1,"feedback":"True representa un valor booleano verdadero."},
-	{"materia":"Programación","pregunta":"El ciclo while se ejecuta:","opciones":["una vez","hasta que la condición sea falsa","siempre","nunca"],"respuesta":1,"dificultad":2,"feedback":"While repite código mientras la condición sea verdadera."},
-	{"materia":"Inteligencia Emocional","pregunta":"Durante una actividad grupal, un compañero critica tu idea frente a todos. Te sientes atacado. ¿Qué haces?","opciones":["Lo interrumpes y le dices que su comentario no es justo mientras todos escuchan tu molestia.","Guardas silencio y luego comentas con otros tu enojo y lo que pasó, mostrando frustración.","Explicas tu idea y cómo contribuye al grupo, escuchando sugerencias pero defendiendo tu aporte sin confrontar.","Dejas que continúe y esperas que el profesor o alguien más note lo que pasó antes de intervenir."],"respuesta":2,"dificultad":1,"feedback":"Mantienes tu postura con claridad, aceptas críticas constructivas y proteges tu aporte sin confrontación agresiva."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un amigo te culpa públicamente de un error que cometió. Otros empiezan a burlarse. ¿Qué haces?","opciones":["Gritas para defenderte y reprochas frente a todos por lo que hizo.","Te callas y luego hablas mal de él con otros mientras planeas vengarte.","Reconoces tu error si corresponde, aclaras tu versión y sugieres cómo mejorar juntos para no repetir la situación.","Te alejas y no dices nada, dejando que la situación siga sin tu intervención."],"respuesta":2,"dificultad":1,"feedback":"Asumes responsabilidad cuando corresponde, corriges malentendidos y mantienes control emocional."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un amigo pide que le prestes dinero y amenaza con difamarte si no accedes. ¿Qué haces?","opciones":["Le das el dinero para evitar problemas y quedarte tranquilo mientras cumples su pedido.","Lo amenazas con contar algo suyo para equilibrar la situación y evitar que cumpla su amenaza.","Le dices que no puedes prestarle, explicas tu posición y, si insiste, buscas apoyo para protegerte de chantajes.","Ignoras sus amenazas y sigues con tus actividades como si nada."],"respuesta":2,"dificultad":1,"feedback":"Proteges tu integridad, mantienes límites y previenes manipulación con apoyo si es necesario."},
-	{"materia":"Inteligencia Emocional","pregunta":"Tu jefe te asigna tareas contradictorias con fechas imposibles. ¿Cómo actúas?","opciones":["Haces todo lo que puedas sin mencionar los problemas ni las dificultades de tiempo.","Te quejas en voz alta y te niegas a colaborar mostrando tu frustración por las órdenes.","Organizas las tareas, señalas los conflictos de tiempo y propones un plan que permita cumplir de manera realista y eficiente.","Ignoras el problema y trabajas a tu ritmo sin comunicar los conflictos ni tus sugerencias."],"respuesta":2,"dificultad":1,"feedback":"Combinas análisis de la situación y negociación con responsabilidad, sin generar conflictos ni sumisión."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un amigo usa la culpa para que hagas algo que no quieres. ¿Cómo reaccionas?","opciones":["Cedes a su presión para evitar conflictos y mantener la amistad aunque no quieras.","Le gritas para que deje de presionarte y mostrar tu enojo.","Le explicas que no puedes hacer eso y propones alternativas que respeten tus límites y su interés.","Ignoras su presión y sigues con lo que estabas haciendo sin decir nada."],"respuesta":2,"dificultad":1,"feedback":"Proteges tus límites y buscas una solución respetuosa sin ceder a la manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Durante un debate, un compañero intenta ridiculizar tu postura frente a todos. ¿Qué haces?","opciones":["Lo interrumpes con insultos para defenderte frente al grupo.","Te callas y luego hablas mal de él con otros en privado.","Respondes mostrando evidencia, conectas tu argumento con hechos y escuchas su perspectiva sin perder compostura.","Ignoras lo que dice y dejas que siga con su comentario sin intervenir."],"respuesta":2,"dificultad":1,"feedback":"Combinas defensa de tus ideas con respeto y análisis de los hechos, sin caer en confrontación agresiva."},
-	{"materia":"Inteligencia Emocional","pregunta":"Alguien intenta manipularte con halagos falsos para que hagas algo. ¿Qué reaccionas?","opciones":["Aceptas el halago y haces lo que pide sin cuestionarlo.","Respondes con halagos falsos para devolver la manipulación y mantener equilibrio.","Agradeces el comentario, evalúas la petición y decides según tus principios sin dejarte influir por la manipulación.","Ignoras el halago y continúas con tus planes sin alterarlos."],"respuesta":2,"dificultad":1,"feedback":"Mantienes juicio propio y autonomía mientras reconoces la manipulación sin reaccionar impulsivamente."},
-	{"materia":"Inteligencia Emocional","pregunta":"Durante un proyecto grupal, un miembro intenta imponer su idea ignorando la tuya. ¿Qué haces?","opciones":["Lo interrumpes y dices que tu idea es mejor para que todos la escuchen.","Callas y luego hablas mal de él con otros en privado para que sepan lo que hizo.","Explicas cómo tu propuesta complementa al grupo y sugieres combinar elementos de ambas ideas para mejorar el resultado.","Dejas que haga lo que quiera sin intervenir ni discutir la situación."],"respuesta":2,"dificultad":1,"feedback":"Proteges tu aporte y fomentas colaboración sin confrontación agresiva."},
-	{"materia":"Inteligencia Emocional","pregunta":"Alguien te culpa de algo que no hiciste frente al grupo. ¿Qué haces?","opciones":["Gritas que no es tu culpa y reprochas frente a todos lo que dijo.","Hablas mal de la persona con otros para desahogarte y exponer la situación.","Aclaras la situación, presentas tu versión y buscas que el grupo entienda los hechos sin confrontación directa.","Ignoras la acusación y esperas que se descubra la verdad por sí sola."],"respuesta":2,"dificultad":1,"feedback":"Defiendes tu posición de forma clara y respetuosa sin generar conflictos innecesarios."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un compañero te pide ayuda en su trabajo bajo presión y amenaza con alejarse si no accedes. ¿Qué haces?","opciones":["Cedes y haces su trabajo para que no se aleje, aunque no quieras.","Le gritas para que deje de presionarte y muestras tu molestia.","Le explicas que no puedes hacerlo todo, propones colaborar de manera justa y estableces límites claros.","Ignoras su presión y continúas solo con tus tareas sin intervenir."],"respuesta":2,"dificultad":1,"feedback":"Proteges tus límites y fomentas colaboración justa sin ceder a manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Alguien en el grupo intenta humillarte por un error y todos ríen. ¿Qué haces?","opciones":["Respondes con burlas para vengarte frente al grupo.","Guardas rencor y hablas mal de ellos con otros más tarde.","Reconoces tu error si corresponde, explicas cómo mejorar y pides apoyo para evitar que vuelva a ocurrir.","Ignoras la situación y te alejas sin intervenir ni decir nada."],"respuesta":2,"dificultad":1,"feedback":"Mantienes control emocional, aprendes de la situación y fomentas respeto mutuo."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un compañero intenta presionarte diciendo 'Todos lo hacen'. ¿Qué haces?","opciones":["Haces lo que todos hacen para no quedar fuera aunque no estés de acuerdo.","Rechazas a todos y protestas en voz alta mostrando tu descontento.","Decides según tu criterio, explicas tu posición y propones alternativas que respeten tus valores sin ceder a la presión.","Ignoras la situación y sigues con tus decisiones sin participar en la actividad."],"respuesta":2,"dificultad":1,"feedback":"Mantienes autonomía y firmeza frente a presión social mientras buscas soluciones razonables."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un amigo dice que si no accedes a su plan dejará de hablarte. Te sientes presionado. ¿Qué haces?","opciones":["Aceptas para no perder la amistad aunque no quieras hacerlo.","Le respondes con enojo que ya no quieres seguir con él y muestras tu molestia.","Explicas que tu participación depende de tu interés genuino, no de amenazas, y que no cedes a presiones, estableciendo tu límite.","Guardas silencio y luego inventas excusas para no participar evitando confrontación directa."],"respuesta":2,"dificultad":1,"feedback":"Defiendes tu decisión libremente y proteges tu autonomía sin agresión ni sumisión."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un amigo te pide que compartas tu tarea bajo amenaza de no jugar contigo. ¿Qué haces?","opciones":["Le das la tarea para que no se enoje y mantener la amistad.","Le gritas que no lo harás y le muestras tu molestia.","Explicas que no puedes compartirla, propones ayudarlos a entender el tema y mantienes tu límite.","Ignoras la situación y sigues con tu trabajo sin decir nada."],"respuesta":2,"dificultad":1,"feedback":"Proteges tu límite, ofreces ayuda real y evitas ceder a manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si alguien se burla de ti frente a otros por perder un juego, ¿cómo reaccionas?","opciones":["Gritas para defenderte y humillarlo de vuelta.","Te alejas y hablas mal de él después con otros.","Aceptas la derrota, reconoces tus errores y felicitas al ganador manteniendo dignidad.","Ignoras la burla y te retiras sin decir nada."],"respuesta":2,"dificultad":1,"feedback":"Mantienes respeto propio y ajeno, aprendes de la situación y evitas conflictos."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un adulto te grita injustamente. ¿Cuál es la mejor reacción?","opciones":["Gritas de vuelta para demostrar tu enojo y defenderte.","Te alejas y luego hablas mal de él con otros.","Mantienes calma, escuchas sus razones y respondes explicando tu perspectiva con respeto.","Ignoras el grito y no haces nada al respecto."],"respuesta":2,"dificultad":1,"feedback":"Gestionas emociones, comunicas tu posición de manera clara y evitas confrontaciones innecesarias."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un compañero dice 'Si no haces mi parte el profe se enojará contigo'. ¿Qué haces?","opciones":["Haces su parte para evitar problemas con el profesor.","Le gritas y lo acusas de manipulación.","Explicas que cada quien responde por su trabajo y sugieres colaboración justa.","Ignoras la amenaza y solo haces tu tarea sin intervenir."],"respuesta":2,"dificultad":1,"feedback":"Proteges tus límites, fomentas responsabilidad compartida y evitas manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si sientes miedo ante un reto nuevo, ¿qué es mejor hacer?","opciones":["Evitas el reto para no sentir ansiedad.","Finges seguridad mientras sigues con miedo interno.","Reconoces tu miedo, planificas acciones y enfrentas la situación paso a paso con calma.","Te ríes de la situación y actúas sin pensar para disimular."],"respuesta":2,"dificultad":1,"feedback":"Aceptas emociones, planificas y actúas con calma y efectividad."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un adulto dice 'Haz esto porque yo lo digo'. ¿Qué deberías pensar?","opciones":["Obedecer sin cuestionar para evitar problemas.","Reírte de la situación y no hacer caso.","Preguntas por qué es necesario, explicas tu perspectiva y sugieres alternativas.","Ignoras y actúas según tu propio criterio sin comunicarte."],"respuesta":2,"dificultad":1,"feedback":"Muestras respeto y autonomía, cuestionando de manera adecuada órdenes sin someterte ciegamente."},
-	{"materia":"Inteligencia Emocional","pregunta":"Alguien intenta manipularte usando la culpa: 'Si no haces esto, me decepcionarás'. ¿Qué haces?","opciones":["Cedes para no herir sus sentimientos aunque no quieras hacerlo.","Le gritas para demostrar tu enojo y frustración.","Explicas que no puedes ceder a chantajes emocionales y propones alternativas justas.","Ignoras la presión y continúas con tus decisiones sin responder."],"respuesta":2,"dificultad":1,"feedback":"Mantienes tus límites y buscas soluciones justas sin ceder a la manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Alguien te dice 'Tú no sirves' para bajarte la autoestima. ¿Qué recuerdas?","opciones":["Que sus palabras determinan tu valor y debes pelear.","Que sus comentarios no son importantes y los ignoras.","Que tu valor no depende de otros y actúas según tus capacidades.","Que debes llorar para liberar emociones y aceptar lo que dicen."],"respuesta":2,"dificultad":1,"feedback":"Mantienes autoestima y decisiones propias, sin dejarte afectar por comentarios destructivos."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si un amigo insiste en que hagas algo que no quieres, ¿qué deberías decir?","opciones":["Sí para evitar problemas aunque no quieras hacerlo.","Cedes un poco para no pelear y mantener la amistad.","No claro y firme explicando tu límite y proponiendo alternativas.","Ignoras su insistencia y actúas a tu manera sin comunicar nada."],"respuesta":2,"dificultad":1,"feedback":"Proteges tus límites y buscas soluciones respetuosas sin ceder a presión."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si alguien dice 'Todos piensan que eres tonto', ¿qué intenta?","opciones":["Manipular usando presión social para influenciarte.","Hacerte reír para bajar tensión y molestar.","Aconsejarte sobre cómo mejorar en público.","Animarte para que cambies tu comportamiento siguiendo consejos."],"respuesta":0,"dificultad":1,"feedback":"Reconoces la manipulación social y mantienes autonomía sin dejarte influir."},
-	{"materia":"Inteligencia Emocional","pregunta":"Cuando ganas, ¿qué actitud muestra un líder verdadero?","opciones":["Burlarse del perdedor para demostrar superioridad.","Ignorar al otro y centrarte solo en ti.","Ganar con humildad, reconociendo los esfuerzos de los demás y felicitándolos.","Presumir frente a todos para marcar diferencia."],"respuesta":2,"dificultad":1,"feedback":"Un líder celebra sus logros con respeto, fomentando cooperación y buen ambiente."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si un amigo dice 'Haz esto si quieres que te invite a mi fiesta', ¿qué haces?","opciones":["Accedes al chantaje para mantener la amistad.","Ignoras su pedido sin responder.","No cedes a la presión y explicas que tu participación depende de tu interés genuino.","Haces otra actividad y le cuentas excusas para evitar la situación."],"respuesta":2,"dificultad":1,"feedback":"Mantienes autonomía y no permites que la amistad se use como presión."},
-	{"materia":"Inteligencia Emocional","pregunta":"Si alguien te critica sin razón, ¿qué debes hacer?","opciones":["Pelear y demostrar que tiene razón.","Ignorar todo y no reaccionar.","Escuchar, evaluar si hay algo útil y decidir cómo responder sin perder control.","Aceptar como cierto y actuar según lo que dice."],"respuesta":2,"dificultad":1,"feedback":"Analizas la crítica, mantienes juicio propio y no reaccionas impulsivamente."},
-	{"materia":"Inteligencia Emocional","pregunta":"¿Qué debes hacer cuando alguien quiere que guardes un secreto que te incomoda?","opciones":["Guardarlo siempre aunque te incomode.","Callar por miedo y evitar problemas.","Contarlo a un adulto de confianza para protegerte y buscar apoyo.","Olvidarlo y no hacer nada sobre la situación."],"respuesta":2,"dificultad":1,"feedback":"Buscas apoyo para manejar la situación y proteges tu seguridad, sin aceptar manipulación."},
-	{"materia":"Inteligencia Emocional","pregunta":"Un compañero dice 'Si no me eliges en tu grupo diré que me odias'. ¿Qué intenta hacer?","opciones":["Chantaje emocional usando presión para influenciar tu decisión.","Agradecerte por considerarlo y mostrar amistad.","Hacer un juego para ver tu reacción y divertirse.","Regalarte algo para ganarse tu elección."],"respuesta":0,"dificultad":1,"feedback":"Reconoces la manipulación y tomas decisiones justas sin ceder ante presión."}
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona las partículas con lo que forman",
+		"opciones": {
+			"Electrones": "Átomos",
+			"Protones+Neutrones": "Núcleo",
+			"Átomos": "Moléculas",
+			"Moléculas": "Materia",
+			"Quarks": "Protones y neutrones"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona las teorías con lo que explican",
+		"opciones": {
+			"Relatividad": "El espacio y el tiempo",
+			"Mecánica cuántica": "Lo muy pequeño",
+			"Big Bang": "El inicio del universo",
+			"Evolución estelar": "Vida de las estrellas",
+			"Gravedad cuántica": "Unir lo grande y lo pequeño"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona las partículas con su tipo",
+		"opciones": {
+			"Electrón": "Leptón",
+			"Quark": "Partícula elemental",
+			"Fotón": "Luz",
+			"Neutrino": "Partícula fantasma",
+			"Gluón": "Fuerza nuclear fuerte"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los científicos con sus aportes",
+		"opciones": {
+			"Einstein": "Relatividad",
+			"Planck": "Cuantos de energía",
+			"Bohr": "Modelo atómico",
+			"Hawking": "Agujeros negros",
+			"Curie": "Radioactividad"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los conceptos con ejemplos sencillos",
+		"opciones": {
+			"Energía nuclear": "Sol",
+			"Partículas subatómicas": "Electrones",
+			"Agujero negro": "Espacio que traga todo",
+			"Antimateria": "Lo opuesto a la materia",
+			"Rayos cósmicos": "Energía del espacio"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de radiación con su uso",
+		"opciones": {
+			"Rayos X": "Medicina",
+			"Rayos gamma": "Tratamiento contra el cáncer",
+			"Microondas": "Cocinar",
+			"Infrarrojo": "Controles remotos",
+			"Ultravioleta": "Bronceado"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los fenómenos con su explicación",
+		"opciones": {
+			"Efecto fotoeléctrico": "Luz convierte en electricidad",
+			"Fusión nuclear": "Estrellas producen energía",
+			"Fisión nuclear": "Átomos se dividen",
+			"Expansión del universo": "Galaxias se alejan",
+			"Teletransporte cuántico": "Información viaja a distancia"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los experimentos famosos con su resultado",
+		"opciones": {
+			"Experimento de Rutherford": "Descubrió núcleo atómico",
+			"Experimento de doble rendija": "Comportamiento onda-partícula",
+			"Experimento de Michelson-Morley": "No existe éter",
+			"Experimento de Cavendish": "Masa de la Tierra",
+			"Experimento de Hertz": "Ondas de radio"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los objetos cósmicos con sus características",
+		"opciones": {
+			"Agujero negro": "Gravedad extrema",
+			"Estrella de neutrones": "Materia súper densa",
+			"Galaxia": "Conjunto de estrellas",
+			"Supernova": "Explosión de estrella",
+			"Nebulosa": "Nube de gas y polvo"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física moderna",
+		"tipo": "relation",
+		"pregunta": "Relaciona los usos de la física moderna con la vida diaria",
+		"opciones": {
+			"GPS": "Relatividad",
+			"Celulares": "Ondas electromagnéticas",
+			"Paneles solares": "Efecto fotoeléctrico",
+			"Resonancia magnética": "Imanes y ondas de radio",
+			"Computadores": "Mecánica cuántica"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona las partes de la célula con su función",
+		"opciones": {
+			"Mitocondria": "Produce energía",
+			"Núcleo": "Contiene ADN",
+			"Ribosomas": "Sintetizan proteínas",
+			"Cloroplasto": "Fotosíntesis",
+			"Membrana plasmática": "Regula el paso de sustancias"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los sistemas del cuerpo humano con sus órganos principales",
+		"opciones": {
+			"Digestivo": "Estómago",
+			"Respiratorio": "Pulmones",
+			"Circulatorio": "Corazón",
+			"Nervioso": "Cerebro",
+			"Excretor": "Riñones"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona las enfermedades con su agente causante",
+		"opciones": {
+			"Tuberculosis": "Bacteria",
+			"Influenza": "Virus",
+			"Malaria": "Parásito",
+			"Candidiasis": "Hongo",
+			"Covid-19": "Coronavirus"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los estados de la materia con sus características",
+		"opciones": {
+			"Sólido": "Forma y volumen definidos",
+			"Líquido": "Volumen definido, forma variable",
+			"Gas": "Ni forma ni volumen definidos",
+			"Plasma": "Gas ionizado",
+			"Condensado de Bose-Einstein": "Estado ultrafrío"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los ácidos con ejemplos de uso cotidiano",
+		"opciones": {
+			"Ácido acético": "Vinagre",
+			"Ácido cítrico": "Limón",
+			"Ácido sulfúrico": "Baterías",
+			"Ácido láctico": "Yogur",
+			"Ácido clorhídrico": "Jugo gástrico"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los científicos con sus aportes en química",
+		"opciones": {
+			"Mendeleiev": "Tabla periódica",
+			"Lavoisier": "Ley de conservación de la masa",
+			"Dalton": "Teoría atómica",
+			"Marie Curie": "Radioactividad",
+			"Bohr": "Modelo atómico"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de energía con ejemplos",
+		"opciones": {
+			"Cinética": "Pelota en movimiento",
+			"Potencial": "Agua en una represa",
+			"Térmica": "Hervir agua",
+			"Eléctrica": "Corriente en un cable",
+			"Solar": "Panel fotovoltaico"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona los instrumentos de medición con lo que miden",
+		"opciones": {
+			"Barómetro": "Presión atmosférica",
+			"Amperímetro": "Corriente eléctrica",
+			"Cronómetro": "Tiempo",
+			"Termómetro": "Temperatura",
+			"Balanza": "Masa"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona las leyes con sus autores",
+		"opciones": {
+			"Gravitación universal": "Newton",
+			"Relatividad": "Einstein",
+			"Electromagnetismo": "Maxwell",
+			"Principio de inercia": "Galileo",
+			"Mecánica cuántica": "Planck"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona las fracciones con sus equivalentes decimales",
+		"opciones": {
+			"1/2": "0.5",
+			"1/4": "0.25",
+			"3/4": "0.75",
+			"2/5": "0.4",
+			"5/8": "0.625"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona las figuras geométricas con su número de lados",
+		"opciones": {
+			"Triángulo": "3",
+			"Cuadrado": "4",
+			"Pentágono": "5",
+			"Hexágono": "6",
+			"Octágono": "8"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona los matemáticos con sus aportes",
+		"opciones": {
+			"Pitágoras": "Teorema del triángulo rectángulo",
+			"Euclides": "Geometría",
+			"Descartes": "Geometría analítica",
+			"Gauss": "Teoría de números",
+			"Leibniz": "Cálculo"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona las revoluciones con el país donde ocurrieron",
+		"opciones": {
+			"Revolución Francesa": "Francia",
+			"Revolución Rusa": "Rusia",
+			"Revolución Mexicana": "México",
+			"Revolución Cubana": "Cuba",
+			"Revolución Industrial": "Inglaterra"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona los imperios con su región principal",
+		"opciones": {
+			"Romano": "Europa",
+			"Inca": "Andes",
+			"Egipcio": "Nilo",
+			"Chino": "Asia oriental",
+			"Azteca": "Mesoamérica"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona los inventos con su época aproximada",
+		"opciones": {
+			"Imprenta": "Siglo XV",
+			"Teléfono": "Siglo XIX",
+			"Internet": "Siglo XX",
+			"Escritura": "Edad Antigua",
+			"Polvora": "Edad Media"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Arte",
+		"tipo": "relation",
+		"pregunta": "Relaciona los pintores con sus obras",
+		"opciones": {
+			"Leonardo da Vinci": "La última cena",
+			"Picasso": "Guernica",
+			"Van Gogh": "La noche estrellada",
+			"Dalí": "La persistencia de la memoria",
+			"Miguel Ángel": "La creación de Adán"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Arte",
+		"tipo": "relation",
+		"pregunta": "Relaciona los estilos artísticos con su época",
+		"opciones": {
+			"Renacimiento": "Siglos XV-XVI",
+			"Barroco": "Siglo XVII",
+			"Romanticismo": "Siglo XIX",
+			"Impresionismo": "Siglo XIX",
+			"Cubismo": "Siglo XX"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Tecnología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los componentes del computador con su función",
+		"opciones": {
+			"CPU": "Procesa instrucciones",
+			"RAM": "Memoria temporal",
+			"Disco duro": "Almacenamiento",
+			"Tarjeta gráfica": "Procesa imágenes",
+			"Fuente de poder": "Distribuye energía"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Tecnología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los lenguajes de programación con su uso principal",
+		"opciones": {
+			"Python": "Ciencia de datos",
+			"Java": "Aplicaciones empresariales",
+			"JavaScript": "Web",
+			"C": "Sistemas operativos",
+			"SQL": "Bases de datos"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los ríos con el continente donde se ubican",
+		"opciones": {
+			"Amazonas": "América",
+			"Nilo": "África",
+			"Danubio": "Europa",
+			"Yangtsé": "Asia",
+			"Murray": "Oceanía"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los sistemas del cuerpo humano con su función",
+		"opciones": {
+			"Digestivo": "Procesar alimentos",
+			"Respiratorio": "Intercambio de gases",
+			"Circulatorio": "Transporte de nutrientes",
+			"Nervioso": "Control y coordinación",
+			"Excretor": "Eliminar desechos"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de enlace químico con su característica",
+		"opciones": {
+			"Iónico": "Transferencia de electrones",
+			"Covalente": "Compartir electrones",
+			"Metálico": "Mar de electrones",
+			"Puente de hidrógeno": "Interacción débil",
+			"Van der Waals": "Fuerzas débiles"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona las leyes de Newton con su descripción",
+		"opciones": {
+			"Primera": "Inercia",
+			"Segunda": "F=ma",
+			"Tercera": "Acción y reacción",
+			"Gravitación": "Atracción universal",
+			"Óptica": "Comportamiento de la luz"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los océanos con su ubicación",
+		"opciones": {
+			"Pacífico": "Entre Asia y América",
+			"Atlántico": "Entre Europa/África y América",
+			"Índico": "Entre África y Asia",
+			"Ártico": "Norte del planeta",
+			"Antártico": "Sur del planeta"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Astronomía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los cuerpos celestes con su clasificación",
+		"opciones": {
+			"Sol": "Estrella",
+			"Tierra": "Planeta terrestre",
+			"Júpiter": "Planeta gaseoso",
+			"Plutón": "Planeta enano",
+			"Halley": "Cometa"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de triángulos con su clasificación",
+		"opciones": {
+			"Equilátero": "Tres lados iguales",
+			"Isósceles": "Dos lados iguales",
+			"Escaleno": "Lados desiguales",
+			"Rectángulo": "Un ángulo de 90°",
+			"Acutángulo": "Todos los ángulos agudos"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los niveles de organización biológica",
+		"opciones": {
+			"Célula": "Unidad básica",
+			"Tejido": "Conjunto de células",
+			"Órgano": "Conjunto de tejidos",
+			"Sistema": "Conjunto de órganos",
+			"Organismo": "Ser vivo completo"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los métodos de separación de mezclas con su principio",
+		"opciones": {
+			"Filtración": "Tamaño de partículas",
+			"Destilación": "Punto de ebullición",
+			"Imantación": "Atracción magnética",
+			"Decantación": "Diferencia de densidad",
+			"Cromatografía": "Afinidad de fases"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona los presidentes de EE.UU. con un hecho clave",
+		"opciones": {
+			"George Washington": "Primer presidente",
+			"Abraham Lincoln": "Abolición de la esclavitud",
+			"Franklin D. Roosevelt": "Segunda Guerra Mundial",
+			"John F. Kennedy": "Carrera espacial",
+			"Barack Obama": "Primer afroamericano"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de energía con su ejemplo",
+		"opciones": {
+			"Cinética": "Objeto en movimiento",
+			"Potencial": "Resorte comprimido",
+			"Térmica": "Calor",
+			"Eléctrica": "Corriente",
+			"Química": "Combustible"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los principales grupos de vertebrados con un ejemplo",
+		"opciones": {
+			"Mamíferos": "Perro",
+			"Aves": "Águila",
+			"Reptiles": "Cocodrilo",
+			"Anfibios": "Rana",
+			"Peces": "Tiburón"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los científicos con sus descubrimientos",
+		"opciones": {
+			"Mendeleiev": "Tabla periódica",
+			"Dalton": "Teoría atómica",
+			"Rutherford": "Núcleo atómico",
+			"Curie": "Radiactividad",
+			"Avogadro": "Número de partículas"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los desiertos con su continente",
+		"opciones": {
+			"Sahara": "África",
+			"Gobi": "Asia",
+			"Atacama": "América del Sur",
+			"Kalahari": "África",
+			"Gran Victoria": "Oceanía"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona las operaciones con su propiedad",
+		"opciones": {
+			"Conmutativa": "a+b=b+a",
+			"Asociativa": "(a+b)+c=a+(b+c)",
+			"Distributiva": "a(b+c)=ab+ac",
+			"Elemento neutro": "a+0=a",
+			"Inverso": "a+(-a)=0"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Astronomía",
+		"tipo": "relation",
+		"pregunta": "Relaciona las estrellas con su tipo",
+		"opciones": {
+			"Sol": "Enana amarilla",
+			"Betelgeuse": "Supergigante roja",
+			"Sirio": "Gigante blanca",
+			"Rigel": "Supergigante azul",
+			"Neutrones": "Restos estelares"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona las ondas con su medio de propagación",
+		"opciones": {
+			"Sonora": "Aire",
+			"Sísmica": "Tierra",
+			"Electromagnética": "Vacío",
+			"Marina": "Agua",
+			"Mecánica": "Medio material"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona las sustancias con su pH aproximado",
+		"opciones": {
+			"Jugo de limón": "2",
+			"Agua pura": "7",
+			"Sangre": "7.4",
+			"Leche": "6.5",
+			"Jabón": "10"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona las enfermedades con el sistema que afectan",
+		"opciones": {
+			"Asma": "Respiratorio",
+			"Infarto": "Circulatorio",
+			"Gastritis": "Digestivo",
+			"Parkinson": "Nervioso",
+			"Insuficiencia renal": "Excretor"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los países con su idioma oficial",
+		"opciones": {
+			"Brasil": "Portugués",
+			"China": "Mandarín",
+			"Egipto": "Árabe",
+			"Alemania": "Alemán",
+			"Rusia": "Ruso"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona los inventos con su inventor",
+		"opciones": {
+			"Teléfono": "Graham Bell",
+			"Bombilla": "Edison",
+			"Avión": "Hermanos Wright",
+			"Imprenta": "Gutenberg",
+			"Radio": "Marconi"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los órganos con su función principal",
+		"opciones": {
+			"Corazón": "Bombear sangre",
+			"Pulmones": "Intercambio de oxígeno",
+			"Estómago": "Digestión de alimentos",
+			"Riñones": "Filtrar desechos",
+			"Cerebro": "Control del cuerpo"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los elementos químicos con su símbolo",
+		"opciones": {
+			"Oxígeno": "O",
+			"Carbono": "C",
+			"Hidrógeno": "H",
+			"Hierro": "Fe",
+			"Sodio": "Na"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona las magnitudes físicas con su unidad SI",
+		"opciones": {
+			"Fuerza": "Newton",
+			"Energía": "Joule",
+			"Potencia": "Watt",
+			"Carga eléctrica": "Coulomb",
+			"Temperatura": "Kelvin"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona las civilizaciones con su región principal",
+		"opciones": {
+			"Egipcia": "Valle del Nilo",
+			"Mesopotámica": "Río Tigris y Éufrates",
+			"Maya": "Mesoamérica",
+			"Griega": "Mediterráneo oriental",
+			"China": "Río Amarillo"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los continentes con su país destacado",
+		"opciones": {
+			"África": "Nigeria",
+			"Asia": "India",
+			"América": "Brasil",
+			"Europa": "Alemania",
+			"Oceanía": "Australia"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Arte",
+		"tipo": "relation",
+		"pregunta": "Relaciona a los pintores con su obra más reconocida",
+		"opciones": {
+			"Leonardo da Vinci": "La Mona Lisa",
+			"Picasso": "Guernica",
+			"Van Gogh": "La noche estrellada",
+			"Dalí": "La persistencia de la memoria",
+			"Miguel Ángel": "La creación de Adán"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Literatura",
+		"tipo": "relation",
+		"pregunta": "Relaciona a los autores con su nacionalidad",
+		"opciones": {
+			"Gabriel García Márquez": "Colombiano",
+			"Shakespeare": "Inglés",
+			"Dante Alighieri": "Italiano",
+			"Tolstói": "Ruso",
+			"Octavio Paz": "Mexicano"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona los conceptos matemáticos con su definición",
+		"opciones": {
+			"Área": "Superficie de una figura",
+			"Perímetro": "Suma de lados",
+			"Radio": "Distancia del centro al borde",
+			"Ángulo recto": "90 grados",
+			"Primo": "Número divisible solo por 1 y sí mismo"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Astronomía",
+		"tipo": "relation",
+		"pregunta": "Relaciona los planetas con su característica",
+		"opciones": {
+			"Mercurio": "Más cercano al Sol",
+			"Venus": "Más caliente",
+			"Júpiter": "Más grande",
+			"Saturno": "Con anillos",
+			"Marte": "El planeta rojo"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Música",
+		"tipo": "relation",
+		"pregunta": "Relaciona los instrumentos con su familia",
+		"opciones": {
+			"Violín": "Cuerda",
+			"Trompeta": "Viento metal",
+			"Flauta": "Viento madera",
+			"Batería": "Percusión",
+			"Piano": "Cuerda percutida"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tipos de células con sus características",
+		"opciones": {
+			"Procariota": "Sin núcleo definido",
+			"Eucariota": "Con núcleo definido",
+			"Animal": "Sin pared celular",
+			"Vegetal": "Con cloroplastos",
+			"Fúngica": "Con pared de quitina"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los estados de la materia con su descripción",
+		"opciones": {
+			"Sólido": "Forma y volumen definidos",
+			"Líquido": "Volumen definido, forma variable",
+			"Gas": "Ni forma ni volumen definidos",
+			"Plasma": "Gas ionizado",
+			"Condensado Bose-Einstein": "Temperatura casi 0 absoluto"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona las revoluciones con su país",
+		"opciones": {
+			"Francesa": "Francia",
+			"Industrial": "Inglaterra",
+			"Rusa": "Rusia",
+			"Cubana": "Cuba",
+			"Mexicana": "México"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Geografía",
+		"tipo": "relation",
+		"pregunta": "Relaciona las montañas con su ubicación",
+		"opciones": {
+			"Everest": "Nepal",
+			"Aconcagua": "Argentina",
+			"Kilimanjaro": "Tanzania",
+			"Mont Blanc": "Francia/Italia",
+			"McKinley (Denali)": "EE.UU."
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Física",
+		"tipo": "relation",
+		"pregunta": "Relaciona los científicos con sus aportes",
+		"opciones": {
+			"Newton": "Leyes del movimiento",
+			"Einstein": "Relatividad",
+			"Galileo": "Movimiento y telescopio",
+			"Bohr": "Modelo atómico",
+			"Faraday": "Electromagnetismo"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Biología",
+		"tipo": "relation",
+		"pregunta": "Relaciona los reinos de los seres vivos con sus características",
+		"opciones": {
+			"Animalia": "Multicelulares heterótrofos",
+			"Plantae": "Autótrofos fotosintéticos",
+			"Fungi": "Heterótrofos por absorción",
+			"Protista": "Mayormente unicelulares",
+			"Monera": "Procariotas"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Química",
+		"tipo": "relation",
+		"pregunta": "Relaciona los ácidos con su uso común",
+		"opciones": {
+			"Ácido sulfúrico": "Baterías",
+			"Ácido clorhídrico": "Limpieza",
+			"Ácido acético": "Vinagre",
+			"Ácido cítrico": "Frutas cítricas",
+			"Ácido nítrico": "Fertilizantes"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Historia",
+		"tipo": "relation",
+		"pregunta": "Relaciona los imperios con su capital",
+		"opciones": {
+			"Imperio Romano": "Roma",
+			"Imperio Otomano": "Constantinopla",
+			"Imperio Inca": "Cuzco",
+			"Imperio Persa": "Persépolis",
+			"Imperio Azteca": "Tenochtitlán"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Matemáticas",
+		"tipo": "relation",
+		"pregunta": "Relaciona las figuras geométricas con su número de lados",
+		"opciones": {
+			"Triángulo": "3",
+			"Cuadrado": "4",
+			"Pentágono": "5",
+			"Hexágono": "6",
+			"Octágono": "8"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Astronomía",
+		"tipo": "relation",
+		"pregunta": "Relaciona las fases de la Luna con su forma visible",
+		"opciones": {
+			"Luna nueva": "Invisible",
+			"Cuarto creciente": "Media iluminada derecha",
+			"Luna llena": "Totalmente iluminada",
+			"Cuarto menguante": "Media iluminada izquierda",
+			"Creciente menguante": "Pequeña parte visible"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los colores básicos en inglés con su traducción",
+		"opciones": {
+			"Red": "Rojo",
+			"Blue": "Azul",
+			"Green": "Verde",
+			"Yellow": "Amarillo",
+			"Black": "Negro"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los saludos en inglés con su traducción al español",
+		"opciones": {
+			"Hello": "Hola",
+			"Goodbye": "Adiós",
+			"Good morning": "Buenos días",
+			"Good night": "Buenas noches",
+			"See you": "Nos vemos"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los objetos de la escuela en inglés con su equivalente en español",
+		"opciones": {
+			"Pencil": "Lápiz",
+			"Notebook": "Cuaderno",
+			"Eraser": "Borrador",
+			"Chair": "Silla",
+			"Board": "Pizarra"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los verbos regulares con su traducción",
+		"opciones": {
+			"Play": "Jugar",
+			"Work": "Trabajar",
+			"Study": "Estudiar",
+			"Open": "Abrir",
+			"Close": "Cerrar"
+		},
+		"dificultad": 1
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los verbos irregulares con su traducción",
+		"opciones": {
+			"Go": "Ir",
+			"Have": "Tener",
+			"Make": "Hacer",
+			"Take": "Tomar",
+			"See": "Ver"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tiempos verbales con su uso",
+		"opciones": {
+			"Present Simple": "Hábitos",
+			"Present Continuous": "Acciones ahora",
+			"Past Simple": "Acciones terminadas",
+			"Future Will": "Predicciones",
+			"Present Perfect": "Experiencias"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los adjetivos con su antónimo en inglés",
+		"opciones": {
+			"Hot": "Cold",
+			"Tall": "Short",
+			"Happy": "Sad",
+			"Fast": "Slow",
+			"Young": "Old"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los adverbios de frecuencia en inglés con su traducción",
+		"opciones": {
+			"Always": "Siempre",
+			"Usually": "Usualmente",
+			"Sometimes": "A veces",
+			"Rarely": "Raramente",
+			"Never": "Nunca"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los phrasal verbs con su significado",
+		"opciones": {
+			"Wake up": "Despertarse",
+			"Turn on": "Encender",
+			"Look for": "Buscar",
+			"Give up": "Rendirse",
+			"Carry on": "Continuar"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona las preposiciones con su equivalente en español",
+		"opciones": {
+			"Under": "Debajo",
+			"Over": "Encima",
+			"Between": "Entre",
+			"Next to": "Al lado de",
+			"Behind": "Detrás"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los conectores con su función",
+		"opciones": {
+			"However": "Contraste",
+			"Because": "Causa",
+			"Therefore": "Consecuencia",
+			"Although": "Concesión",
+			"Moreover": "Adición"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona las expresiones idiomáticas con su significado",
+		"opciones": {
+			"Break the ice": "Romper el hielo",
+			"Hit the books": "Estudiar mucho",
+			"Under the weather": "Sentirse mal",
+			"Piece of cake": "Muy fácil",
+			"Spill the beans": "Revelar un secreto"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los sinónimos en inglés",
+		"opciones": {
+			"Begin": "Start",
+			"Big": "Large",
+			"Smart": "Intelligent",
+			"End": "Finish",
+			"Help": "Assist"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los false friends con su traducción correcta",
+		"opciones": {
+			"Actually": "En realidad",
+			"Library": "Biblioteca",
+			"Exit": "Salida",
+			"Embarrassed": "Avergonzado",
+			"Assist": "Ayudar"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los modals con su uso principal",
+		"opciones": {
+			"Can": "Habilidad",
+			"Must": "Obligación",
+			"May": "Permiso",
+			"Should": "Consejo",
+			"Might": "Posibilidad"
+		},
+		"dificultad": 3
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los tiempos perfectos con ejemplos de uso",
+		"opciones": {
+			"Present Perfect": "He estudiado",
+			"Past Perfect": "Había estudiado",
+			"Future Perfect": "Habré estudiado",
+			"Present Perfect Continuous": "He estado estudiando",
+			"Past Perfect Continuous": "Había estado estudiando"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los verbos con su forma en pasado simple",
+		"opciones": {
+			"Go": "Went",
+			"See": "Saw",
+			"Eat": "Ate",
+			"Write": "Wrote",
+			"Take": "Took"
+		},
+		"dificultad": 2
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los phrasal verbs avanzados con su significado",
+		"opciones": {
+			"Put up with": "Tolerar",
+			"Come across": "Encontrarse con",
+			"Run out of": "Agotarse",
+			"Look forward to": "Esperar con ansias",
+			"Get away with": "Salir impune"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona las expresiones académicas con su equivalente",
+		"opciones": {
+			"On the other hand": "Por otro lado",
+			"In conclusion": "En conclusión",
+			"According to": "De acuerdo con",
+			"As a result": "Como resultado",
+			"In contrast": "En contraste"
+		},
+		"dificultad": 4
+	},
+	{
+		"materia": "Inglés",
+		"tipo": "relation",
+		"pregunta": "Relaciona los sinónimos avanzados en inglés",
+		"opciones": {
+			"Improve": "Enhance",
+			"Understand": "Comprehend",
+			"Buy": "Purchase",
+			"Help": "Aid",
+			"Ask": "Inquire"
+		},
+		"dificultad": 5
+	},
+	{
+		"materia": "Español",
+		"pregunta": "¿En cuál de las siguientes frases se usa correctamente el diminutivo de 'flor'?",
+		"opciones": [
+			"La florcita creció en el jardín y todos la admiraban.",
+			"La florita creció en el jardín y todos la admiraban.",
+			"La florecita creció en el jardín y todos la admiraban.",
+			"La florilla creció en el jardín y todos la admiraban."
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "El diminutivo normativo de 'flor' es 'florecita'. Aunque 'florcita' y 'florita' se escuchan en algunos lugares, no son formas aceptadas en la norma culta."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase que usa correctamente una palabra con tilde",
+		"opciones": [
+			"El arbol estaba lleno de hojas verdes y brillantes.",
+			"Los arboles estaban llenos de hojas verdes y brillantes.",
+			"El árbol estaba lleno de hojas verdes y brillantes.",
+			"El arból estaba lleno de hojas verdes y brillantes."
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "La palabra correcta con tilde es 'árbol', usada correctamente en la frase."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase que usa un verbo en infinitivo correctamente",
+		"opciones": [
+			"Canta en el coro de la escuela todas las mañanas.",
+			"Cantó en el coro de la escuela todas las mañanas.",
+			"Cantar en el coro de la escuela todas las mañanas es divertido.",
+			"Cantando en el coro de la escuela todas las mañanas aprende mucho."
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "El infinitivo 'cantar' se usa correctamente en la frase como acción general."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase que usa correctamente un antónimo de 'feliz'",
+		"opciones": [
+			"Estaba alegre porque perdió su juguete y nadie lo consoló.",
+			"Estaba contento porque perdió su juguete y nadie lo consoló.",
+			"Estaba triste porque perdió su juguete y nadie lo consoló.",
+			"Estaba intrigado porque perdió su juguete y nadie lo consoló."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "El antónimo de 'feliz' es 'triste', usado correctamente en la frase y con contexto coherente."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase correctamente escrita",
+		"opciones": [
+			"El avion despegó muy tarde y los pasajero se sorprendieron por la demora.",
+			"El avión despegó muy tarde y los pasajeros se sorprendieron por la demora.",
+			"El abion despegó muy temprano y los pasajeros se sorprendieron por la demora.",
+			"El avión despego muy temprano y los pasajeros se sorprendieron por la demora."
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "La frase correcta es 'El avión despegó muy temprano y los pasajeros se sorprendieron por la demora'. Ortografía y acentos correctos mantienen coherencia.",
+		"img_pregunta": "000_avion.png"
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase que usa correctamente el antónimo de 'feliz'",
+		"opciones": [
+			"Estaba triste porque perdió su juguete y nadie le consoló.",
+			"Estaba triste porque perdió su juguete y nadie le consoló correctamente.",
+			"Estaba triste porque perdío su juguete y nadie le consoló.",
+			"Estaba trite porque perdió su juguete y nadie le consoló."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La frase correcta usa 'triste' como antónimo de 'feliz', con ortografía correcta."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "¿Cuál frase usa correctamente un sustantivo?",
+		"opciones": [
+			"Correr rápido es importante para la salud y divertirse.",
+			"La mesa de la cocina estaba llena de libros y cuadernos.",
+			"Rápido corrió hacia la puerta sin mirar.",
+			"Cantar canciones alegres alegró la mañana."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La frase correcta usa 'mesa', un sustantivo concreto, correctamente."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "¿Cuál frase usa correctamente un adjetivo?",
+		"opciones": [
+			"El verde manzana estaba en la mesa de la cocina.",
+			"El árbol estaba verde y lleno de hojas brillantes.",
+			"Corrió verde por el campo y no miró atrás.",
+			"Cantaba verde mientras cocinaba la cena."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La frase correcta usa 'verde' como adjetivo para describir un sustantivo de forma coherente."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase con el plural correcto de 'flor'",
+		"opciones": [
+			"Las flores crecieron rápido y llenaron el jardín de colores.",
+			"Las flors crecieron rápido y llenaron el jardín de colores.",
+			"Las florez crecieron rápido y llenaron el jardín de colores.",
+			"Las flóres crecieron rápido y llenaron el jardín de colores."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El plural correcto es 'flores', formado añadiendo 'es' porque termina en 'r'.",
+		"img_pregunta": "000_flores.png"
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase con el diminutivo correcto de 'casa'",
+		"opciones": [
+			"La casota estaba muy lejos del pueblo y nadie la visitaba.",
+			"La casita estaba muy lejos del pueblo y todos querían visitarla.",
+			"El casero estaba muy lejos del pueblo y todos lo visitaban.",
+			"El casón estaba muy lejos del pueblo y nadie se acercaba."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "El diminutivo correcto es 'casita', usado de manera coherente en el contexto de la frase."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase correctamente escrita",
+		"opciones": [
+			"El camion pasó por la calle y levantó polvo.",
+			"La canción sonó en la radio y todos la cantaron.",
+			"El raton corría por la cocina y nadie lo veía.",
+			"El limon estaba podrido y nadie lo comió."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La frase correcta usa 'canción' con tilde, la palabra está correctamente escrita y el contexto es coherente."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase que usa un verbo correctamente",
+		"opciones": [
+			"Correr por el parque al amanecer es saludable y divertido.",
+			"El árbol crecía lentamente y sus hojas caían.",
+			"La silla estaba rota y nadie podía sentarse.",
+			"El verde del césped iluminaba el jardín."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La frase correcta usa 'correr', un verbo, dentro de un contexto coherente de acción."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase correctamente escrita",
+		"opciones": [
+			"Estube cansado después de correr por el parque.",
+			"Estuve cansado después de correr por el parque.",
+			"Estubé cansado después de correr por el parque.",
+			"Estúve cansado después de correr por el parque."
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "La forma correcta es 'Estuve', con ortografía correcta y contexto coherente."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase que usa correctamente el antónimo de 'rápido'",
+		"opciones": [
+			"El caracol se movía lento y nadie podía alcanzarlo.",
+			"El caracol se movía veloz y nadie podía alcanzarlo.",
+			"El caracol se movía lento y nadie lo podía alcanzar correctamente.",
+			"El caracol se movía ligéro y nadie podía alcanzarlo."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El antónimo de 'rápido' es 'lento', usado correctamente y con ortografía correcta.",
+		"img_pregunta": "000_rapido.png"
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase que usa correctamente un sinónimo de 'alegre'",
+		"opciones": [
+			"Estaba feliz porque recibió buenas noticias y todos lo notaron.",
+			"Estaba triste porque recibió buenas noticias y todos lo notaron.",
+			"Estaba cansado porque recibió buenas noticias y todos lo notaron.",
+			"Estaba enojado porque recibió buenas noticias y todos lo notaron."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El sinónimo de 'alegre' es 'feliz', usado correctamente en la frase."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase que usa un sustantivo propio correctamente",
+		"opciones": [
+			"Niño corrió hacia México y se perdió en la ciudad.",
+			"Perro jugaba en México y todos lo miraban.",
+			"México estaba lleno de mesas y sillas.",
+			"Árbol crecía en México y nadie lo cuidaba."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El sustantivo propio 'México' está correctamente usado como lugar en la frase."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase que usa un sustantivo común correctamente",
+		"opciones": [
+			"Juan caminaba por la ciudad con su mochila.",
+			"Colombia estaba soleada y todos paseaban.",
+			"La ciudad estaba llena de coches y personas caminando.",
+			"Pedro se perdió en la ciudad sin ayuda."
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "El sustantivo común 'ciudad' se usa correctamente en la frase, refiriéndose a un lugar general."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Elige la frase que usa correctamente un adjetivo calificativo",
+		"opciones": [
+			"El niño rápido corrió hacia la escuela sin mirar atrás.",
+			"Correr rápido es importante para la salud.",
+			"Niño jugaba rápido en el patio de la escuela.",
+			"Canción rápida alegró a todos los presentes."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El adjetivo 'rápido' describe al sustantivo 'niño' correctamente, mostrando cualidad."
+	},
+	{
+		"materia": "Español",
+		"pregunta": "Selecciona la frase con el plural correcto de 'luz'",
+		"opciones": [
+			"Las luces de la ciudad iluminaban la noche y todos miraban.",
+			"Las luzes de la ciudad iluminaban la noche y todos miraban.",
+			"Las luzs de la ciudad iluminaban la noche y todos miraban.",
+			"La luz de la ciudad iluminaba la noche y todos miraban."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El plural correcto es 'luces', usado correctamente en contexto."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el número 1 en inglés",
+		"opciones": [
+			"One went to the park and played with friends all day.",
+			"Two went to the park and played with friends all day.",
+			"Three went to the park and played with friends all day.",
+			"Four went to the park and played with friends all day."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El número 1 en inglés es 'One', usado correctamente como sujeto de la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el número 2 en inglés",
+		"opciones": [
+			"One cats were sleeping on the sofa quietly.",
+			"Two cats were sleeping on the sofa quietly.",
+			"Three cats were sleeping on the sofa quietly.",
+			"Four cats were sleeping on the sofa quietly."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "El número 2 en inglés es 'Two', usado correctamente para indicar cantidad."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el color 'rojo' en inglés",
+		"opciones": [
+			"Red apples were on the table, bright and shiny.",
+			"Blue apples were on the table, bright and shiny.",
+			"Green apples were on the table, bright and shiny.",
+			"Yellow apples were on the table, bright and shiny."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Red' significa rojo en inglés y se usa correctamente para describir las manzanas."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el color 'azul' en inglés",
+		"opciones": [
+			"Blue sky covered the mountains in the morning light.",
+			"Red sky covered the mountains in the morning light.",
+			"Green sky covered the mountains in the morning light.",
+			"Yellow sky covered the mountains in the morning light."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Blue' significa azul en inglés y describe correctamente el cielo."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'gato' en inglés",
+		"opciones": [
+			"The cat slept on the couch all afternoon.",
+			"The dog slept on the couch all afternoon.",
+			"The bird slept on the couch all afternoon.",
+			"The horse slept on the couch all afternoon."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Cat' significa gato en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'perro' en inglés",
+		"opciones": [
+			"The dog barked loudly at the mailman.",
+			"The cat barked loudly at the mailman.",
+			"The fish barked loudly at the mailman.",
+			"The bird barked loudly at the mailman."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Dog' significa perro en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'casa' en inglés",
+		"opciones": [
+			"My house is near the river and has a beautiful garden.",
+			"My home is near the river and has a beautiful garden.",
+			"The building is near the river and has a beautiful garden.",
+			"The room is near the river and has a beautiful garden."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'House' significa casa en inglés y se usa correctamente para referirse al lugar donde vives."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'escuela' en inglés",
+		"opciones": [
+			"The school is close to my house and I walk there every day.",
+			"The college is close to my house and I walk there every day.",
+			"The university is close to my house and I walk there every day.",
+			"The class is close to my house and I walk there every day."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'School' significa escuela en inglés y se usa correctamente en el contexto de educación básica."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'hermano' en inglés",
+		"opciones": [
+			"My brother helps me with homework every evening.",
+			"My sister helps me with homework every evening.",
+			"My father helps me with homework every evening.",
+			"My uncle helps me with homework every evening."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'Brother' significa hermano en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'hermana' en inglés",
+		"opciones": [
+			"My sister likes to read books before going to sleep.",
+			"My brother likes to read books before going to sleep.",
+			"My mother likes to read books before going to sleep.",
+			"My aunt likes to read books before going to sleep."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'Sister' significa hermana en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el número 5 en inglés",
+		"opciones": [
+			"Four birds were sitting on the fence quietly.",
+			"Five birds were sitting on the fence quietly.",
+			"Six birds were sitting on the fence quietly.",
+			"Seven birds were sitting on the fence quietly."
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "'Five' significa cinco en inglés y se usa correctamente para indicar cantidad."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta que dice el número 10 en inglés",
+		"opciones": [
+			"Ten children were playing in the park on Saturday morning.",
+			"Twelve children were playing in the park on Saturday morning.",
+			"Twenty children were playing in the park on Saturday morning.",
+			"Eleven children were playing in the park on Saturday morning."
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'Ten' significa diez en inglés y se usa correctamente para indicar la cantidad de niños."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'manzana' en inglés",
+		"opciones": [
+			"I ate an apple for breakfast this morning.",
+			"I ate a banana for breakfast this morning.",
+			"I ate an orange for breakfast this morning.",
+			"I ate a grape for breakfast this morning."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Apple' significa manzana en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'plátano' en inglés",
+		"opciones": [
+			"I peeled a banana and ate it quickly.",
+			"I peeled an apple and ate it quickly.",
+			"I peeled an orange and ate it quickly.",
+			"I peeled a grape and ate it quickly."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Banana' significa plátano en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Elige la frase correcta para decir 'agua' en inglés",
+		"opciones": [
+			"I drank water after running around the park.",
+			"I drank juice after running around the park.",
+			"I drank milk after running around the park.",
+			"I drank tea after running around the park."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'Water' significa agua en inglés y se usa correctamente en la frase."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Hay una manzana en la mesa'?",
+		"opciones": [
+			"There is one apple on the table / Der is uan ápol on de téibl",
+			"There are two apples on the table / Der ar tú ápols on de téibl",
+			"There is three apple on the table / Der is zrí ápol on de téibl",
+			"There are four apples on the table / Der ar for ápols on de téibl"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La correcta es 'There is one apple on the table', se pronuncia 'Der is uan ápol on de téibl', indicando que hay una sola manzana."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'El gato duerme en la silla'?",
+		"opciones": [
+			"The cat sleeps on the chair / De cat slipz on de chéyer",
+			"The dog sleeps on the chair / De dog slipz on de chéyer",
+			"The cat sleep on the chair / De cat slip on de chéyer",
+			"The bird sleeps on the chair / De berd slipz on de chéyer"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'The cat sleeps on the chair' significa 'El gato duerme en la silla', se pronuncia 'De cat slipz on de chéyer'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Hay dos perros en el jardín'?",
+		"opciones": [
+			"There are two dogs in the garden / Der ar tú dogs in de gárden",
+			"There is one dog in the garden / Der is uan dog in de gárden",
+			"There are three dogs in the garden / Der ar zrí dogs in de gárden",
+			"There is two dog in the garden / Der is tú dog in de gárden"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'There are two dogs in the garden' significa 'Hay dos perros en el jardín', se pronuncia 'Der ar tú dogs in de gárden'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'El sol brilla en el cielo'?",
+		"opciones": [
+			"The sun shines in the sky / De san sháinz in de skái",
+			"The moon shines in the sky / De mun sháinz in de skái",
+			"The sun shine in the sky / De san sháin in de skái",
+			"The star shines in the sky / De star sháinz in de skái"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'The sun shines in the sky' significa 'El sol brilla en el cielo', se pronuncia 'De san sháinz in de skái'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'La casa es grande'?",
+		"opciones": [
+			"The house is big / De jaus is big",
+			"The home is big / De jom is big",
+			"The house are big / De jaus ar big",
+			"The house is small / De jaus is smol"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'The house is big' significa 'La casa es grande', se pronuncia 'De jaus is big'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Mi hermano juega en el parque'?",
+		"opciones": [
+			"My brother plays in the park / Mai bróder pleiz in de park",
+			"My sister plays in the park / Mai sístar pleiz in de park",
+			"My brother play in the park / Mai bróder plei in de park",
+			"My brother sleeps in the park / Mai bróder slipz in de park"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'My brother plays in the park' significa 'Mi hermano juega en el parque', se pronuncia 'Mai bróder pleiz in de park'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Ella come una naranja'?",
+		"opciones": [
+			"She eats an orange / Shi its an óranch",
+			"He eats an orange / Hi its an óranch",
+			"She eat a orange / Shi it a óranch",
+			"She drinks an orange / Shi drinks an óranch"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'She eats an orange' significa 'Ella come una naranja', se pronuncia 'Shi its an óranch'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Él bebe agua'?",
+		"opciones": [
+			"He drinks water / Hi drinks uóter",
+			"He drinks juice / Hi drinks dzús",
+			"He drink water / Hi drink uóter",
+			"He eats water / Hi its uóter"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "'He drinks water' significa 'Él bebe agua', se pronuncia 'Hi drinks uóter'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'La luna está en el cielo'?",
+		"opciones": [
+			"The moon is in the sky / De mun is in de skái",
+			"The sun is in the sky / De san is in de skái",
+			"The moon are in the sky / De mun ar in de skái",
+			"The star is in the sky / De star is in de skái"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'The moon is in the sky' significa 'La luna está en el cielo', se pronuncia 'De mun is in de skái'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'El gato y el perro duermen juntos'?",
+		"opciones": [
+			"The cat and the dog sleep together / De cat and de dog slip tugéder",
+			"The cat and the dog plays together / De cat and de dog pleiz tugéder",
+			"The cat and the dog sleeps separate / De cat and de dog slipz separate",
+			"The cat sleeps with the dog / De cat slipz with de dog"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'The cat and the dog sleep together' significa 'El gato y el perro duermen juntos', se pronuncia 'De cat and de dog slip tugéder'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'El árbol es alto y verde'?",
+		"opciones": [
+			"The tree is tall and green / De trí is tol and grín",
+			"The tree are tall and green / De trí ar tol and grín",
+			"The tree is big and green / De trí is big and grín",
+			"The tree is tall and blue / De trí is tol and blu"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'The tree is tall and green' significa 'El árbol es alto y verde', se pronuncia 'De trí is tol and grín'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Los pájaros vuelan en el cielo'?",
+		"opciones": [
+			"The birds fly in the sky / De berds flái in de skái",
+			"The birds fly on the sky / De berds flái on de skái",
+			"The bird flies in the sky / De berd fláis in de skái",
+			"The birds sleep in the sky / De berds slip in de skái"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'The birds fly in the sky' significa 'Los pájaros vuelan en el cielo', se pronuncia 'De berds flái in de skái'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "¿Cómo se dice y escribe 'Tengo un libro en mi mochila'?",
+		"opciones": [
+			"I have a book in my backpack / Ai hav a buk in mai bákpak",
+			"I has a book in my backpack / Ai haz a buk in mai bákpak",
+			"I have a book on my backpack / Ai hav a buk on mai bákpak",
+			"I hold a book in my backpack / Ai hóld a buk in mai bákpak"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "'I have a book in my backpack' significa 'Tengo un libro en mi mochila', se pronuncia 'Ai hav a buk in mai bákpak'."
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “We are Shapes! / Wi ar Cheips”",
+		"opciones": [
+			"You can see us everywhere",
+			"We have no sides",
+			"We go round and round",
+			"We are only in books"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'You can see us everywhere.' Esta línea se repite al inicio de la canción para indicar que las formas están por todos lados.",
+		"audio": "we_are_shapes.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Square / Aim a Skwér”",
+		"opciones": [
+			"I have four equal sides",
+			"I go round and round",
+			"I have three pointy sides",
+			"I am curvy and lovely"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I have four sides.' Un cuadrado siempre tiene cuatro lados iguales, como se menciona en la canción.",
+		"audio": "square.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Circle / Aim a Sírcol”",
+		"opciones": [
+			"I go round and round and round, I have no start, I have no end",
+			"I have four sides",
+			"I have three pointy sides",
+			"I have five pointy arms"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I go round and round and round, I have no start, I have no end.' El círculo se describe por su movimiento continuo y sin principio ni fin.",
+		"audio": "circle.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Triangle / Aim a Traiángl”",
+		"opciones": [
+			"I have three sides, I’m a pointy little shape",
+			"I go round and round",
+			"I have four sides",
+			"I have five pointy arms"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I have three sides, I’m a pointy little shape.' El triángulo se caracteriza por tener tres lados y puntas agudas.",
+		"audio": "triangle.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Rectangle / Aim a Réktángl”",
+		"opciones": [
+			"I got really long sides, I have four sides",
+			"I go round and round",
+			"I have three pointy sides",
+			"I have five pointy arms"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I got really long sides, I have four sides.' El rectángulo es como un cuadrado alargado, con cuatro lados y dos más largos que otros.",
+		"audio": "rectangle.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Star / Aim a Stár”",
+		"opciones": [
+			"I have five pointy arms, in the sky so far",
+			"I go round and round",
+			"I have four sides",
+			"I have three pointy sides"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I have five pointy arms, in the sky so far.' La estrella tiene cinco puntas y se encuentra en el cielo, como se canta en la canción.",
+		"audio": "star.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Heart / Aim a Járt”",
+		"opciones": [
+			"I’m so curvy and so smart, I’m a really lovely shape",
+			"I have four sides",
+			"I go round and round",
+			"I have five pointy arms"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'I’m so curvy and so smart, I’m a really lovely shape.' El corazón se describe como curvo y encantador.",
+		"audio": "heart.mp3"
+	},
+	{
+		"materia": "Inglés",
+		"pregunta": "Completa la frase “I’m a Diamond / Aim a Dáiámond”",
+		"opciones": [
+			"You can see me on a ring, I’m so shiny and so bright",
+			"I have four sides",
+			"I have three pointy sides",
+			"I have five pointy arms"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La frase completa correcta es: 'You can see me on a ring, I’m so shiny and so bright.' El diamante es brillante y se encuentra en anillos y joyería.",
+		"audio": "diamond.mp3"
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué órgano usamos para respirar?",
+		"opciones": [
+			"Pulmones",
+			"Corazón",
+			"Estómago",
+			"Hígado"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Respiramos con los pulmones.\nEllos se llenan de aire y llevan oxígeno a la sangre."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué órgano bombea la sangre?",
+		"opciones": [
+			"Corazón",
+			"Pulmones",
+			"Huesos",
+			"Riñones"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El corazón es como una bomba.\nEmpuja la sangre para que llegue a todo el cuerpo."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Cómo se llaman los huesos que protegen el pecho?",
+		"opciones": [
+			"Costillas",
+			"Fémur",
+			"Mano",
+			"Cráneo"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Las costillas protegen los pulmones y el corazón.\nSon como una jaula que cuida los órganos."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo usamos para pensar?",
+		"opciones": [
+			"Cerebro",
+			"Corazón",
+			"Pulmones",
+			"Estómago"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Pensamos con el cerebro.\nEs como una computadora que controla todo lo que hacemos."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué órganos usamos para ver?",
+		"opciones": [
+			"Ojos",
+			"Orejas",
+			"Manos",
+			"Nariz"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Vemos con los ojos.\nEllos captan la luz y el cerebro entiende las imágenes."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Cómo se llama el líquido rojo que circula por el cuerpo?",
+		"opciones": [
+			"Sangre",
+			"Agua",
+			"Leche",
+			"Jugo"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Ese líquido rojo es la sangre.\nLleva oxígeno y alimento a las células."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué órgano nos ayuda a escuchar?",
+		"opciones": [
+			"Orejas",
+			"Ojos",
+			"Boca",
+			"Nariz"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Escuchamos con las orejas.\nRecogen los sonidos y el cerebro los entiende."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo nos ayuda a oler?",
+		"opciones": [
+			"Nariz",
+			"Boca",
+			"Ojos",
+			"Manos"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Olemos con la nariz.\nDentro tiene sensores que detectan los olores."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Cómo se llama el órgano que nos ayuda a digerir la comida?",
+		"opciones": [
+			"Estómago",
+			"Pulmones",
+			"Hígado",
+			"Corazón"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El estómago deshace la comida en pedacitos pequeños.\nAsí el cuerpo puede sacar la energía."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué hueso protege el cerebro?",
+		"opciones": [
+			"Cráneo",
+			"Costillas",
+			"Columna",
+			"Brazo"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El cráneo protege el cerebro.\nEs como un casco duro alrededor de la cabeza."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo late todo el tiempo?",
+		"opciones": [
+			"Corazón",
+			"Hígado",
+			"Estómago",
+			"Pulmones"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El corazón late sin parar.\nEse sonido es la sangre moviéndose."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué hacemos con los pulmones?",
+		"opciones": [
+			"Respirar",
+			"Comer",
+			"Caminar",
+			"Pensar"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Con los pulmones respiramos.\nAspiramos oxígeno y sacamos aire usado."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Cómo se llama el conjunto de huesos del cuerpo?",
+		"opciones": [
+			"Esqueleto",
+			"Cráneo",
+			"Pierna",
+			"Brazo"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Todos los huesos juntos forman el esqueleto.\nNos da forma y nos sostiene."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo usamos para probar los sabores?",
+		"opciones": [
+			"Lengua",
+			"Nariz",
+			"Oídos",
+			"Manos"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La lengua tiene papilas gustativas.\nEllas reconocen los sabores dulces, salados, ácidos y amargos."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué líquido del cuerpo es transparente y ayuda a limpiar?",
+		"opciones": [
+			"Lágrimas",
+			"Sangre",
+			"Orina",
+			"Saliva"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Las lágrimas limpian los ojos y los mantienen húmedos."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo conecta la cabeza con el resto?",
+		"opciones": [
+			"Cuello",
+			"Pierna",
+			"Brazo",
+			"Cintura"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El cuello une la cabeza con el cuerpo.\nPermite moverla de un lado a otro."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo protege la espalda y sostiene el cuerpo?",
+		"opciones": [
+			"Columna vertebral",
+			"Costillas",
+			"Cráneo",
+			"Cadera"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La columna vertebral es como el pilar del cuerpo.\nNos permite mantenernos de pie."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué necesitamos tomar para vivir y mantenernos hidratados?",
+		"opciones": [
+			"Agua",
+			"Leche",
+			"Jugo",
+			"Refresco"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El agua es vital.\nSin agua el cuerpo no puede funcionar bien."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo usamos para agarrar objetos?",
+		"opciones": [
+			"Manos",
+			"Pies",
+			"Orejas",
+			"Ojos"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Usamos las manos para agarrar y sujetar cosas.\nLos dedos ayudan a hacer fuerza o precisión."
+	},
+	{
+		"materia": "Biología",
+		"pregunta": "¿Qué parte del cuerpo nos ayuda a mantenernos de pie y caminar?",
+		"opciones": [
+			"Pies",
+			"Manos",
+			"Cabeza",
+			"Orejas"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Con los pies nos sostenemos y caminamos.\nEllos cargan todo nuestro peso."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Cuál es el planeta donde vivimos?",
+		"opciones": [
+			"Marte",
+			"Venus",
+			"Tierra",
+			"Júpiter"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Vivimos en la Tierra.\nEs el tercer planeta del sistema solar y el único con vida conocida."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "El río más largo de Colombia es:",
+		"opciones": [
+			"Magdalena",
+			"Amazonas",
+			"Orinoco",
+			"Cauca"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El río Magdalena es el más largo de Colombia.\nAtraviesa el país de sur a norte y es muy importante para el transporte."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "La capital de Colombia es:",
+		"opciones": [
+			"Medellín",
+			"Bogotá",
+			"Cali",
+			"Cartagena"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La capital de Colombia es Bogotá.\nEstá ubicada en el altiplano cundiboyacense."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Quién fue el libertador de Colombia?",
+		"opciones": [
+			"Bolívar",
+			"Nariño",
+			"Santander",
+			"Sucre"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Simón Bolívar fue el Libertador de Colombia.\nLideró la independencia contra España."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué océanos rodean a Colombia?",
+		"opciones": [
+			"Pacífico y Atlántico",
+			"Atlántico y Ártico",
+			"Pacífico y Índico",
+			"Atlántico y Índico"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Colombia tiene costas en el océano Pacífico y el mar Caribe, que conecta con el Atlántico."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué es una frontera?",
+		"opciones": [
+			"Un río",
+			"Un límite entre países",
+			"Una montaña",
+			"Un océano"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Una frontera es el límite que separa a dos países o regiones."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿En qué continente está Colombia?",
+		"opciones": [
+			"África",
+			"Asia",
+			"América",
+			"Europa"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Colombia está en América, específicamente en América del Sur."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Cuál es la moneda oficial de Colombia?",
+		"opciones": [
+			"Peso",
+			"Dólar",
+			"Euro",
+			"Real"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La moneda de Colombia es el peso colombiano (COP)."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué colores tiene la bandera de Colombia?",
+		"opciones": [
+			"Rojo, blanco y azul",
+			"Amarillo, azul y rojo",
+			"Verde, blanco y rojo",
+			"Negro, amarillo y verde"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La bandera de Colombia tiene amarillo, azul y rojo.\nEl amarillo ocupa la mitad superior."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "El lugar donde se hacen las leyes en Colombia es:",
+		"opciones": [
+			"Congreso",
+			"Palacio",
+			"Alcaldía",
+			"Gobernación"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El Congreso de la República hace las leyes.\nEstá compuesto por el Senado y la Cámara de Representantes."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "El día de la Independencia de Colombia se celebra el:",
+		"opciones": [
+			"7 de agosto",
+			"20 de julio",
+			"12 de octubre",
+			"1 de mayo"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "El 20 de julio de 1810 se conmemora el inicio del proceso de independencia."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué cordilleras forman los Andes en Colombia?",
+		"opciones": [
+			"Oriental, Central y Occidental",
+			"Norte y Sur",
+			"Este y Oeste",
+			"Sierra Nevada"
+		],
+		"respuesta": 0,
+		"dificultad": 3,
+		"feedback": "En Colombia los Andes se dividen en tres cordilleras: Oriental, Central y Occidental."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "El principal recurso natural que exporta Colombia es:",
+		"opciones": [
+			"Café",
+			"Banano",
+			"Carbón",
+			"Petróleo"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Colombia es reconocida mundialmente por el café.\nTambién exporta carbón y petróleo."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "La Sierra Nevada de Santa Marta está en:",
+		"opciones": [
+			"Cundinamarca",
+			"Magdalena",
+			"Antioquia",
+			"Tolima"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "La Sierra Nevada de Santa Marta está en el departamento del Magdalena.\nEs la montaña costera más alta del mundo."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué es la Constitución?",
+		"opciones": [
+			"Un himno",
+			"Una ley máxima",
+			"Un decreto",
+			"Un acuerdo"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "La Constitución es la ley máxima de un país.\nEn Colombia la actual es la de 1991."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué es un mapa?",
+		"opciones": [
+			"Un dibujo de un lugar",
+			"Un cuento",
+			"Un objeto",
+			"Un edificio"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Un mapa es una representación gráfica de un lugar.\nSirve para ubicar países, ciudades y ríos."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "El escudo de Colombia tiene:",
+		"opciones": [
+			"Un cóndor",
+			"Un león",
+			"Un caballo",
+			"Un tigre"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El escudo tiene un cóndor con las alas abiertas, símbolo de libertad."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué significa democracia?",
+		"opciones": [
+			"Gobierno del pueblo",
+			"Gobierno de un rey",
+			"Gobierno militar",
+			"Gobierno de ricos"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Democracia significa gobierno del pueblo.\nLos ciudadanos eligen a sus representantes mediante el voto."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Qué departamentos rodean a Bogotá?",
+		"opciones": [
+			"Antioquia y Valle",
+			"Tolima, Cundinamarca y Boyacá",
+			"Cundinamarca",
+			"Meta y Santander"
+		],
+		"respuesta": 2,
+		"dificultad": 3,
+		"feedback": "Bogotá es un distrito capital rodeado completamente por el departamento de Cundinamarca."
+	},
+	{
+		"materia": "Sociales",
+		"pregunta": "¿Cuál es la región más poblada de Colombia?",
+		"opciones": [
+			"Pacífica",
+			"Caribe",
+			"Andina",
+			"Orinoquía"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "La región Andina es la más poblada.\nAllí están Bogotá, Medellín y Cali."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un triángulo que tiene sus tres lados iguales se llama:",
+		"opciones": [
+			"escaleno",
+			"isósceles",
+			"equilátero",
+			"rectángulo"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Se llama triángulo equilátero.\nTodos sus lados y ángulos son iguales (60° cada ángulo)."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "La suma de los ángulos internos de un triángulo es:",
+		"opciones": [
+			"90°",
+			"180°",
+			"270°",
+			"360°"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Siempre suman 180°.\nEjemplo: 60° + 70° + 50° = 180°."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un cuadrado tiene:",
+		"opciones": [
+			"2 lados iguales",
+			"3 lados iguales",
+			"4 lados iguales",
+			"ningún lado igual"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "El cuadrado tiene 4 lados iguales y 4 ángulos rectos (90°)."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un polígono de 5 lados se llama:",
+		"opciones": [
+			"hexágono",
+			"pentágono",
+			"heptágono",
+			"octágono"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Se llama pentágono.\nEjemplo: la figura del símbolo militar clásico."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un círculo tiene:",
+		"opciones": [
+			"radio y diámetro",
+			"solo radio",
+			"solo diámetro",
+			"ninguno"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El círculo tiene radio (del centro a un punto de la circunferencia) y diámetro (dos radios)."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El área de un rectángulo se calcula:",
+		"opciones": [
+			"base+altura",
+			"base-altura",
+			"base×altura",
+			"base/altura"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "El área es base × altura.\nEjemplo: 5×3=15."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un ángulo recto mide:",
+		"opciones": [
+			"45°",
+			"60°",
+			"90°",
+			"120°"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "El ángulo recto siempre mide 90°.\nEjemplo: la esquina de un libro."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El volumen de un cubo se calcula:",
+		"opciones": [
+			"lado³",
+			"lado²",
+			"base×altura",
+			"radio²"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "El volumen de un cubo es lado × lado × lado = lado³."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un triángulo con un ángulo de 90° se llama:",
+		"opciones": [
+			"rectángulo",
+			"equilátero",
+			"isósceles",
+			"obtusángulo"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Se llama triángulo rectángulo.\nEjemplo: el usado en construcciones."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un polígono de 8 lados se llama:",
+		"opciones": [
+			"heptágono",
+			"hexágono",
+			"octágono",
+			"decágono"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "Se llama octágono.\nEjemplo: la señal de alto."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El perímetro de un cuadrado se calcula:",
+		"opciones": [
+			"4×lado",
+			"2×lado",
+			"lado²",
+			"lado³"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El perímetro es 4 veces el lado.\nEjemplo: lado=5 → 4×5=20."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El diámetro es:",
+		"opciones": [
+			"igual al radio",
+			"la mitad del radio",
+			"el doble del radio",
+			"no tiene relación"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "El diámetro es el doble del radio.\nEjemplo: radio=3 → diámetro=6."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "La figura que tiene 3 lados se llama:",
+		"opciones": [
+			"cuadrado",
+			"círculo",
+			"triángulo",
+			"rombo"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Se llama triángulo.\nEs el polígono más simple."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un ángulo mayor de 90° pero menor de 180° es:",
+		"opciones": [
+			"recto",
+			"agudo",
+			"obtuso",
+			"llano"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "Es un ángulo obtuso.\nEjemplo: 120°."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El área de un triángulo es:",
+		"opciones": [
+			"base×altura",
+			"(base×altura)/2",
+			"lado³",
+			"perímetro/2"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "Área=(base×altura)/2.\nEjemplo: base=6, altura=4 → (6×4)/2=12."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El radio es:",
+		"opciones": [
+			"la mitad del diámetro",
+			"el doble del diámetro",
+			"igual al diámetro",
+			"ninguno"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El radio es la mitad del diámetro.\nEjemplo: diámetro=10 → radio=5."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Una figura con todos los lados y ángulos iguales se llama:",
+		"opciones": [
+			"regular",
+			"irregular",
+			"equilátera",
+			"recta"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Se llama polígono regular.\nEjemplo: hexágono regular."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un ángulo agudo es:",
+		"opciones": [
+			"<90°",
+			">90°",
+			"=90°",
+			"=180°"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Un ángulo agudo siempre es menor a 90°.\nEjemplo: 45°."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "Un rombo tiene:",
+		"opciones": [
+			"2 lados iguales",
+			"3 lados iguales",
+			"4 lados iguales",
+			"ningún lado igual"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "El rombo tiene 4 lados iguales, pero ángulos no rectos."
+	},
+	{
+		"materia": "Geometría",
+		"pregunta": "El volumen de un prisma rectangular es:",
+		"opciones": [
+			"lado³",
+			"base×altura",
+			"largo×ancho×alto",
+			"radio²"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "Volumen=largo×ancho×alto.\nEjemplo: 2×3×4=24."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué significa 'print' en Python?",
+		"opciones": [
+			"imprimir en consola",
+			"crear variable",
+			"leer archivo",
+			"finalizar programa"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La función print muestra texto o resultados en la consola."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "En programación, un bucle sirve para:",
+		"opciones": [
+			"detener un programa",
+			"repetir instrucciones",
+			"crear funciones",
+			"ordenar datos"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Un bucle repite instrucciones varias veces hasta cumplir una condición."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué símbolo se usa para asignar valores en Python?",
+		"opciones": [
+			"=",
+			"==",
+			"===",
+			"<-"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El símbolo = asigna valores a variables.\nEjemplo: x=5."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "En Python, '==' significa:",
+		"opciones": [
+			"igualdad",
+			"asignación",
+			"mayor que",
+			"fin"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El operador == compara si dos valores son iguales."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "Una lista en Python se escribe:",
+		"opciones": [
+			"{}",
+			"[]",
+			"()",
+			"<>"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Las listas usan corchetes [].\nEjemplo: numeros=[1,2,3]."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué estructura permite elegir entre varias opciones?",
+		"opciones": [
+			"for",
+			"if",
+			"while",
+			"print"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "La estructura if permite tomar decisiones en el código."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Cómo comienza un comentario en Python?",
+		"opciones": [
+			"//",
+			"#",
+			"/*",
+			"--"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Un comentario inicia con #.\nEjemplo: # esto es un comentario."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "La extensión de archivo de Python es:",
+		"opciones": [
+			".txt",
+			".py",
+			".exe",
+			".java"
+		],
+		"respuesta": 1,
+		"dificultad": 1,
+		"feedback": "Los archivos Python terminan en .py."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué significa 'len' en Python?",
+		"opciones": [
+			"longitud",
+			"número primo",
+			"suma",
+			"resta"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "La función len devuelve la cantidad de elementos en una lista o cadena."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué hace 'input()' en Python?",
+		"opciones": [
+			"muestra texto",
+			"termina programa",
+			"solicita datos al usuario",
+			"borra pantalla"
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "La función input() pide al usuario ingresar datos."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "Una variable sirve para:",
+		"opciones": [
+			"guardar datos",
+			"borrar datos",
+			"detener código",
+			"copiar archivos"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Una variable almacena datos para usarlos en el programa."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "En Python, 'for' se usa para:",
+		"opciones": [
+			"repetir código",
+			"comparar valores",
+			"finalizar programa",
+			"definir clases"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "El bucle for repite código sobre una secuencia de datos."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "El símbolo '+' en cadenas de texto sirve para:",
+		"opciones": [
+			"sumar",
+			"concatenar",
+			"restar",
+			"multiplicar"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "El operador + une cadenas de texto.\nEjemplo: 'hola'+' mundo' → 'hola mundo'."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué significa 'def' en Python?",
+		"opciones": [
+			"definir función",
+			"borrar variable",
+			"crear lista",
+			"definir bucle"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "La palabra def define funciones en Python."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "Un 'diccionario' en Python se escribe:",
+		"opciones": [
+			"[]",
+			"{}",
+			"()",
+			"<>"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "Los diccionarios usan llaves {} con pares clave:valor."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "En Python, 'None' significa:",
+		"opciones": [
+			"número cero",
+			"texto vacío",
+			"ausencia de valor",
+			"fin de bucle"
+		],
+		"respuesta": 2,
+		"dificultad": 2,
+		"feedback": "None representa la ausencia de un valor asignado."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué hace 'break' en un bucle?",
+		"opciones": [
+			"termina el bucle",
+			"repite más",
+			"pausa",
+			"nada"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "Break detiene el bucle inmediatamente."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "El operador '%' en Python calcula:",
+		"opciones": [
+			"módulo o residuo",
+			"división entera",
+			"potencia",
+			"resta"
+		],
+		"respuesta": 0,
+		"dificultad": 2,
+		"feedback": "% devuelve el residuo de una división.\nEjemplo: 7%3=1."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "¿Qué significa 'True' en Python?",
+		"opciones": [
+			"verdadero",
+			"falso",
+			"cero",
+			"nada"
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "True representa un valor booleano verdadero."
+	},
+	{
+		"materia": "Programación",
+		"pregunta": "El ciclo while se ejecuta:",
+		"opciones": [
+			"una vez",
+			"hasta que la condición sea falsa",
+			"siempre",
+			"nunca"
+		],
+		"respuesta": 1,
+		"dificultad": 2,
+		"feedback": "While repite código mientras la condición sea verdadera."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Durante una actividad grupal, un compañero critica tu idea frente a todos. Te sientes atacado. ¿Qué haces?",
+		"opciones": [
+			"Lo interrumpes y le dices que su comentario no es justo mientras todos escuchan tu molestia.",
+			"Guardas silencio y luego comentas con otros tu enojo y lo que pasó, mostrando frustración.",
+			"Explicas tu idea y cómo contribuye al grupo, escuchando sugerencias pero defendiendo tu aporte sin confrontar.",
+			"Dejas que continúe y esperas que el profesor o alguien más note lo que pasó antes de intervenir."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes tu postura con claridad, aceptas críticas constructivas y proteges tu aporte sin confrontación agresiva."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un amigo te culpa públicamente de un error que cometió. Otros empiezan a burlarse. ¿Qué haces?",
+		"opciones": [
+			"Gritas para defenderte y reprochas frente a todos por lo que hizo.",
+			"Te callas y luego hablas mal de él con otros mientras planeas vengarte.",
+			"Reconoces tu error si corresponde, aclaras tu versión y sugieres cómo mejorar juntos para no repetir la situación.",
+			"Te alejas y no dices nada, dejando que la situación siga sin tu intervención."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Asumes responsabilidad cuando corresponde, corriges malentendidos y mantienes control emocional."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un amigo pide que le prestes dinero y amenaza con difamarte si no accedes. ¿Qué haces?",
+		"opciones": [
+			"Le das el dinero para evitar problemas y quedarte tranquilo mientras cumples su pedido.",
+			"Lo amenazas con contar algo suyo para equilibrar la situación y evitar que cumpla su amenaza.",
+			"Le dices que no puedes prestarle, explicas tu posición y, si insiste, buscas apoyo para protegerte de chantajes.",
+			"Ignoras sus amenazas y sigues con tus actividades como si nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tu integridad, mantienes límites y previenes manipulación con apoyo si es necesario."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Tu jefe te asigna tareas contradictorias con fechas imposibles. ¿Cómo actúas?",
+		"opciones": [
+			"Haces todo lo que puedas sin mencionar los problemas ni las dificultades de tiempo.",
+			"Te quejas en voz alta y te niegas a colaborar mostrando tu frustración por las órdenes.",
+			"Organizas las tareas, señalas los conflictos de tiempo y propones un plan que permita cumplir de manera realista y eficiente.",
+			"Ignoras el problema y trabajas a tu ritmo sin comunicar los conflictos ni tus sugerencias."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Combinas análisis de la situación y negociación con responsabilidad, sin generar conflictos ni sumisión."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un amigo usa la culpa para que hagas algo que no quieres. ¿Cómo reaccionas?",
+		"opciones": [
+			"Cedes a su presión para evitar conflictos y mantener la amistad aunque no quieras.",
+			"Le gritas para que deje de presionarte y mostrar tu enojo.",
+			"Le explicas que no puedes hacer eso y propones alternativas que respeten tus límites y su interés.",
+			"Ignoras su presión y sigues con lo que estabas haciendo sin decir nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tus límites y buscas una solución respetuosa sin ceder a la manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Durante un debate, un compañero intenta ridiculizar tu postura frente a todos. ¿Qué haces?",
+		"opciones": [
+			"Lo interrumpes con insultos para defenderte frente al grupo.",
+			"Te callas y luego hablas mal de él con otros en privado.",
+			"Respondes mostrando evidencia, conectas tu argumento con hechos y escuchas su perspectiva sin perder compostura.",
+			"Ignoras lo que dice y dejas que siga con su comentario sin intervenir."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Combinas defensa de tus ideas con respeto y análisis de los hechos, sin caer en confrontación agresiva."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Alguien intenta manipularte con halagos falsos para que hagas algo. ¿Qué reaccionas?",
+		"opciones": [
+			"Aceptas el halago y haces lo que pide sin cuestionarlo.",
+			"Respondes con halagos falsos para devolver la manipulación y mantener equilibrio.",
+			"Agradeces el comentario, evalúas la petición y decides según tus principios sin dejarte influir por la manipulación.",
+			"Ignoras el halago y continúas con tus planes sin alterarlos."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes juicio propio y autonomía mientras reconoces la manipulación sin reaccionar impulsivamente."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Durante un proyecto grupal, un miembro intenta imponer su idea ignorando la tuya. ¿Qué haces?",
+		"opciones": [
+			"Lo interrumpes y dices que tu idea es mejor para que todos la escuchen.",
+			"Callas y luego hablas mal de él con otros en privado para que sepan lo que hizo.",
+			"Explicas cómo tu propuesta complementa al grupo y sugieres combinar elementos de ambas ideas para mejorar el resultado.",
+			"Dejas que haga lo que quiera sin intervenir ni discutir la situación."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tu aporte y fomentas colaboración sin confrontación agresiva."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Alguien te culpa de algo que no hiciste frente al grupo. ¿Qué haces?",
+		"opciones": [
+			"Gritas que no es tu culpa y reprochas frente a todos lo que dijo.",
+			"Hablas mal de la persona con otros para desahogarte y exponer la situación.",
+			"Aclaras la situación, presentas tu versión y buscas que el grupo entienda los hechos sin confrontación directa.",
+			"Ignoras la acusación y esperas que se descubra la verdad por sí sola."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Defiendes tu posición de forma clara y respetuosa sin generar conflictos innecesarios."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un compañero te pide ayuda en su trabajo bajo presión y amenaza con alejarse si no accedes. ¿Qué haces?",
+		"opciones": [
+			"Cedes y haces su trabajo para que no se aleje, aunque no quieras.",
+			"Le gritas para que deje de presionarte y muestras tu molestia.",
+			"Le explicas que no puedes hacerlo todo, propones colaborar de manera justa y estableces límites claros.",
+			"Ignoras su presión y continúas solo con tus tareas sin intervenir."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tus límites y fomentas colaboración justa sin ceder a manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Alguien en el grupo intenta humillarte por un error y todos ríen. ¿Qué haces?",
+		"opciones": [
+			"Respondes con burlas para vengarte frente al grupo.",
+			"Guardas rencor y hablas mal de ellos con otros más tarde.",
+			"Reconoces tu error si corresponde, explicas cómo mejorar y pides apoyo para evitar que vuelva a ocurrir.",
+			"Ignoras la situación y te alejas sin intervenir ni decir nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes control emocional, aprendes de la situación y fomentas respeto mutuo."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un compañero intenta presionarte diciendo 'Todos lo hacen'. ¿Qué haces?",
+		"opciones": [
+			"Haces lo que todos hacen para no quedar fuera aunque no estés de acuerdo.",
+			"Rechazas a todos y protestas en voz alta mostrando tu descontento.",
+			"Decides según tu criterio, explicas tu posición y propones alternativas que respeten tus valores sin ceder a la presión.",
+			"Ignoras la situación y sigues con tus decisiones sin participar en la actividad."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes autonomía y firmeza frente a presión social mientras buscas soluciones razonables."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un amigo dice que si no accedes a su plan dejará de hablarte. Te sientes presionado. ¿Qué haces?",
+		"opciones": [
+			"Aceptas para no perder la amistad aunque no quieras hacerlo.",
+			"Le respondes con enojo que ya no quieres seguir con él y muestras tu molestia.",
+			"Explicas que tu participación depende de tu interés genuino, no de amenazas, y que no cedes a presiones, estableciendo tu límite.",
+			"Guardas silencio y luego inventas excusas para no participar evitando confrontación directa."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Defiendes tu decisión libremente y proteges tu autonomía sin agresión ni sumisión."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un amigo te pide que compartas tu tarea bajo amenaza de no jugar contigo. ¿Qué haces?",
+		"opciones": [
+			"Le das la tarea para que no se enoje y mantener la amistad.",
+			"Le gritas que no lo harás y le muestras tu molestia.",
+			"Explicas que no puedes compartirla, propones ayudarlos a entender el tema y mantienes tu límite.",
+			"Ignoras la situación y sigues con tu trabajo sin decir nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tu límite, ofreces ayuda real y evitas ceder a manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si alguien se burla de ti frente a otros por perder un juego, ¿cómo reaccionas?",
+		"opciones": [
+			"Gritas para defenderte y humillarlo de vuelta.",
+			"Te alejas y hablas mal de él después con otros.",
+			"Aceptas la derrota, reconoces tus errores y felicitas al ganador manteniendo dignidad.",
+			"Ignoras la burla y te retiras sin decir nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes respeto propio y ajeno, aprendes de la situación y evitas conflictos."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un adulto te grita injustamente. ¿Cuál es la mejor reacción?",
+		"opciones": [
+			"Gritas de vuelta para demostrar tu enojo y defenderte.",
+			"Te alejas y luego hablas mal de él con otros.",
+			"Mantienes calma, escuchas sus razones y respondes explicando tu perspectiva con respeto.",
+			"Ignoras el grito y no haces nada al respecto."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Gestionas emociones, comunicas tu posición de manera clara y evitas confrontaciones innecesarias."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un compañero dice 'Si no haces mi parte el profe se enojará contigo'. ¿Qué haces?",
+		"opciones": [
+			"Haces su parte para evitar problemas con el profesor.",
+			"Le gritas y lo acusas de manipulación.",
+			"Explicas que cada quien responde por su trabajo y sugieres colaboración justa.",
+			"Ignoras la amenaza y solo haces tu tarea sin intervenir."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tus límites, fomentas responsabilidad compartida y evitas manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si sientes miedo ante un reto nuevo, ¿qué es mejor hacer?",
+		"opciones": [
+			"Evitas el reto para no sentir ansiedad.",
+			"Finges seguridad mientras sigues con miedo interno.",
+			"Reconoces tu miedo, planificas acciones y enfrentas la situación paso a paso con calma.",
+			"Te ríes de la situación y actúas sin pensar para disimular."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Aceptas emociones, planificas y actúas con calma y efectividad."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un adulto dice 'Haz esto porque yo lo digo'. ¿Qué deberías pensar?",
+		"opciones": [
+			"Obedecer sin cuestionar para evitar problemas.",
+			"Reírte de la situación y no hacer caso.",
+			"Preguntas por qué es necesario, explicas tu perspectiva y sugieres alternativas.",
+			"Ignoras y actúas según tu propio criterio sin comunicarte."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Muestras respeto y autonomía, cuestionando de manera adecuada órdenes sin someterte ciegamente."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Alguien intenta manipularte usando la culpa: 'Si no haces esto, me decepcionarás'. ¿Qué haces?",
+		"opciones": [
+			"Cedes para no herir sus sentimientos aunque no quieras hacerlo.",
+			"Le gritas para demostrar tu enojo y frustración.",
+			"Explicas que no puedes ceder a chantajes emocionales y propones alternativas justas.",
+			"Ignoras la presión y continúas con tus decisiones sin responder."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes tus límites y buscas soluciones justas sin ceder a la manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Alguien te dice 'Tú no sirves' para bajarte la autoestima. ¿Qué recuerdas?",
+		"opciones": [
+			"Que sus palabras determinan tu valor y debes pelear.",
+			"Que sus comentarios no son importantes y los ignoras.",
+			"Que tu valor no depende de otros y actúas según tus capacidades.",
+			"Que debes llorar para liberar emociones y aceptar lo que dicen."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes autoestima y decisiones propias, sin dejarte afectar por comentarios destructivos."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si un amigo insiste en que hagas algo que no quieres, ¿qué deberías decir?",
+		"opciones": [
+			"Sí para evitar problemas aunque no quieras hacerlo.",
+			"Cedes un poco para no pelear y mantener la amistad.",
+			"No claro y firme explicando tu límite y proponiendo alternativas.",
+			"Ignoras su insistencia y actúas a tu manera sin comunicar nada."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Proteges tus límites y buscas soluciones respetuosas sin ceder a presión."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si alguien dice 'Todos piensan que eres tonto', ¿qué intenta?",
+		"opciones": [
+			"Manipular usando presión social para influenciarte.",
+			"Hacerte reír para bajar tensión y molestar.",
+			"Aconsejarte sobre cómo mejorar en público.",
+			"Animarte para que cambies tu comportamiento siguiendo consejos."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Reconoces la manipulación social y mantienes autonomía sin dejarte influir."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Cuando ganas, ¿qué actitud muestra un líder verdadero?",
+		"opciones": [
+			"Burlarse del perdedor para demostrar superioridad.",
+			"Ignorar al otro y centrarte solo en ti.",
+			"Ganar con humildad, reconociendo los esfuerzos de los demás y felicitándolos.",
+			"Presumir frente a todos para marcar diferencia."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Un líder celebra sus logros con respeto, fomentando cooperación y buen ambiente."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si un amigo dice 'Haz esto si quieres que te invite a mi fiesta', ¿qué haces?",
+		"opciones": [
+			"Accedes al chantaje para mantener la amistad.",
+			"Ignoras su pedido sin responder.",
+			"No cedes a la presión y explicas que tu participación depende de tu interés genuino.",
+			"Haces otra actividad y le cuentas excusas para evitar la situación."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Mantienes autonomía y no permites que la amistad se use como presión."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Si alguien te critica sin razón, ¿qué debes hacer?",
+		"opciones": [
+			"Pelear y demostrar que tiene razón.",
+			"Ignorar todo y no reaccionar.",
+			"Escuchar, evaluar si hay algo útil y decidir cómo responder sin perder control.",
+			"Aceptar como cierto y actuar según lo que dice."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Analizas la crítica, mantienes juicio propio y no reaccionas impulsivamente."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "¿Qué debes hacer cuando alguien quiere que guardes un secreto que te incomoda?",
+		"opciones": [
+			"Guardarlo siempre aunque te incomode.",
+			"Callar por miedo y evitar problemas.",
+			"Contarlo a un adulto de confianza para protegerte y buscar apoyo.",
+			"Olvidarlo y no hacer nada sobre la situación."
+		],
+		"respuesta": 2,
+		"dificultad": 1,
+		"feedback": "Buscas apoyo para manejar la situación y proteges tu seguridad, sin aceptar manipulación."
+	},
+	{
+		"materia": "Inteligencia Emocional",
+		"pregunta": "Un compañero dice 'Si no me eliges en tu grupo diré que me odias'. ¿Qué intenta hacer?",
+		"opciones": [
+			"Chantaje emocional usando presión para influenciar tu decisión.",
+			"Agradecerte por considerarlo y mostrar amistad.",
+			"Hacer un juego para ver tu reacción y divertirse.",
+			"Regalarte algo para ganarse tu elección."
+		],
+		"respuesta": 0,
+		"dificultad": 1,
+		"feedback": "Reconoces la manipulación y tomas decisiones justas sin ceder ante presión."
+	}
 ]
