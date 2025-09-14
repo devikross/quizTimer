@@ -19,7 +19,7 @@ incorrecto_msgs = [
     "Ñeee, sigue intentando",
 ]
 
-with open("preguntaUnica.json", "r", encoding="utf-8") as f:
+with open("preguntas.json", "r", encoding="utf-8") as f:
     preguntas = json.load(f)
 
 if os.path.exists(STATS_FILE):
