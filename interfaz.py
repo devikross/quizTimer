@@ -90,7 +90,18 @@ class QuizUI:
         if indice is not None and total is not None:
             texto = f"Pregunta {indice+1} de {total}\n\n{texto}"
             self.lbl.config(text=texto)
-
+            
+        if pregunta.get("img_pregunta"):
+            img = Image.open(self.carpetaImg + pregunta.get("img_pregunta"))
+            factor = 300 / img.height
+            img = img.resize((int(img.width * factor), 300), Image.LANCZOS)
+            imgtk = ImageTk.PhotoImage(img)
+            self.lbl_img.config(image=imgtk)
+            self.lbl_img.image = imgtk
+        else:
+            self.lbl_img.config(image="")
+            self.lbl_img.image = None
+            
         if pregunta.get("tipo") == "relation":
             a,b = opciones_barajadas
             for i in range(10):
@@ -107,18 +118,7 @@ class QuizUI:
 
                 self.botones[i].grid()
             return
-        
-        if pregunta.get("img_pregunta"):
-            img = Image.open(self.carpetaImg + pregunta.get("img_pregunta"))
-            factor = 300 / img.height
-            img = img.resize((int(img.width * factor), 300), Image.LANCZOS)
-            imgtk = ImageTk.PhotoImage(img)
-            self.lbl_img.config(image=imgtk)
-            self.lbl_img.image = imgtk
-        else:
-            self.lbl_img.config(image="")
-            self.lbl_img.image = None
-            
+
         for i, (idx_original, opt) in enumerate(opciones_barajadas):
             if pregunta.get("img_opciones"):
                 ruta_img = pregunta["img_opciones"][idx_original]
