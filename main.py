@@ -123,8 +123,8 @@ def verificar(eleccion):
                     if a[parteA][0] == b[parteB][0]:
                         opciones_correctas += 1
                     else:
-                        indice = next(num for num, comparador in a if comparador == a[parteA][1])
-                        valor = next(comparador for num, comparador in b if num == indice)  
+                        idx = next(num for num, comparador in a if comparador == a[parteA][1])
+                        valor = next(comparador for num, comparador in b if num == idx)  
                         feedback_relacion += f"'{a[parteA][1]}' -----> {valor}\n\n"
                 if opciones_correctas == 5:
                     seguida += 1
